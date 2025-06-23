@@ -11,4 +11,4 @@ DATAAI27
 
 # **Takım Üyeleri**
 
-- [Berke Mert Öztürk: Scrum Master - Developer] (https://www.linkedin.com/in/starlordberke/)
+
