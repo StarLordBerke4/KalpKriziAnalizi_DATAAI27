@@ -11,4 +11,4 @@ DATAAI27
 
 # **Takım Üyeleri**
 
-Takım Unity u97
+- [Berke Mert Öztürk: Scrum Master - Developer] [![linkedin](https://www.linkedin.com/in/starlordberke/)
