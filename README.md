@@ -7,7 +7,8 @@ DATAAI27
 
 # **Takım Logosu**
 
-<img align="right" width="500" height="500" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/DATAAI27%20Logo.png">
+![Logo](https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/DATAAI27%20Logo.png)
+<img align="right" width="300" height="300" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/DATAAI27%20Logo.png">
 
 # **Takım Üyeleri**
 
