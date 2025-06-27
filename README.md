@@ -1,4 +1,4 @@
-# KalpKriziAnalizi_DATAAI27
+# 🫀KalpKriziAnalizi_DATAAI27🫀
 "Yapay Zeka ve Uygulama Akademisi" bünyesinde "DATAAI27" takımı olarak, mezuniyet bootcamp'i için hazırladığımız "Sağlık Teması: Kalp Krizi Analizi ve Tahmini" projemiz bu repo içinde yer almaktadır.
 
 # **📌Takım İsmi**
@@ -16,10 +16,10 @@ DATAAI27
 - <b>Beyza GÜVERCİN</b> | Developer
 - <b>Yücel Baran TUNCER</b> | Developer
 
-# **Tema**
+# **👽Tema**
 ❤️ Sağlık Teması
 
-# **Proje İsmi**
+# **😎Proje İsmi**
 🫀Kalp Krizi Analizi ve Tahmini🫀
 
 # **🤖 Proje Açıklaması**
