@@ -52,3 +52,30 @@ DATAAI27
 - Kalp krizinden korunmak için sağlıklı bir yaşam tarzı benimsemek, düzenli egzersiz yapmak, dengeli beslenmek ve risk faktörlerini yönetmek büyük önem taşır.
 
 <img width="1280" height="720" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Kalp%20Krizi%20Belirtileri.png">
+
+# **🛠️ Pazarlama Planı**
+
+## Ne Yaptık ve Neden Önemli?
+<p>Bu projede kalp krizi riskini erken aşamada tahmin etmeye yönelik bir yapay zeka modeli geliştirdik. Temel amacımız, hastanelerin veya dijital sağlık platformlarının insanların sağlık verileri üzerinden hızlı, doğru ve önleyici kararlar alabilmesini sağlamak. Veri temizleme, görselleştirme ve lojistik regresyon başta olmak üzere çeşitli modellemelerle ilerledik. Bu teknik süreçleri, herkesin anlayabileceği bir dille sadeleştirdik. Yani teknikle hayat arasında bir köprü kurduk.</p>
+
+## Hedef Kitle Kimdir?
+- Özel hastaneler ve sağlık zincirleri
+- Sağlık girişimleri ve dijital sağlık uygulamaları
+- Kamu kurumları, toplumsal sağlık taramaları için
+- Sigorta şirketleri, risk skorlaması için
+- Ve sağlıkla ilgilenen herkes.
+
+## Projeyi Nasıl Duyuracağız? / Tanıtım Faaliyetleri
+- <b>LinkedIn ve Kaggle üzerinden içerik paylaşımı:</b> Projenin öne çıkan görselleri, ROC eğrisi, veri analizinden alınan iç görüler sade ve dikkat çekici bir dille paylaşılacak.
+- <b>Medium’da proje yazısı:</b> Hikâye anlatımı şeklinde teknik süreci, verinin nasıl şekillendiğini ve sağlık alanına katkısını yazacağız.
+- <b>Demo sayfası veya mini web arayüzü:</b> Kullanıcılar yaş, cinsiyet, kolesterol gibi birkaç temel bilgiyi girerek risk skorunu görsün.
+- <b>YouTube veya Instagram Reels/Shorts:</b> "Kalp Krizi Riskini Yapay Zeka ile Tahmin Etmek Mümkün mü?" tarzında 1 dakikalık içerikler.
+
+## Gelecekte Projeyi Nasıl Geliştireceğiz?
+- Daha büyük veri setleriyle model performansını artıracağız.
+- Mobil uygulamaya entegre ederek kişiselleştirilmiş sağlık önerileri sunmak.
+- Hastane takibi yapan platformlara API olarak entegre etmek.
+- Farklı modelleri (Random Forest, XGBoost, Deep Learning) deneyip karşılaştıracağız.
+
+## Proje İçerindeki Tonumuz Nasıl Olacak?
+<p>Ne çok akademik ne de çok havalı. Biz anlaşılır, dürüst, samimi ve içgörü dolu bir dille konuşacağız. Amacımız teknolojiyi korkulacak bir şey olmaktan çıkarıp insanların hayatına değen bir araca dönüştürmek.</p>
