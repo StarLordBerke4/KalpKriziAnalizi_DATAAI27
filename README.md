@@ -25,7 +25,7 @@ DATAAI27
 # **🤖 Proje Açıklaması**
 <p>Bu proje, T3 Vakfı çatısı altında faaliyet gösteren Yapay Zeka ve Teknoloji Akademisi’nin bootcamp süreci kapsamında, DATAAI27 takımı tarafından hayata geçirilmiştir. Takımımız, veri bilimi ve yapay zeka alanında kendini geliştirmeyi hedefleyen farklı disiplinlerden gelen bireylerden oluşmaktadır. Proje süresince, takım üyeleri olarak veri analizi, makine öğrenmesi algoritmaları, model değerlendirme teknikleri ve görselleştirme araçları konusunda işbirliği içinde çalıştık. Amacımız, sağlık alanında toplumsal etkisi yüksek bir konu olan kalp krizi riskini öngörebilen, güvenilir ve yorumlanabilir bir model geliştirmekti. Bu süreçte hem teknik yetkinliklerimizi geliştirdik hem de takım çalışması, proje yönetimi ve problem çözme gibi profesyonel becerilerimizi pekiştirme fırsatı bulduk.</p>
 
-<img width="1280" height="720" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/heart-attack-7479253_1280.jpg">
+<img width="1000" height="720" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/heart-attack-7479253_1280.jpg">
 
 <p>Kalp Krizi Analizi ve Tahmini projemiz DATAAI27 takımı tarafından, kalp krizi riskinin tahminine yönelik olarak gerçekleştirilmiştir. Projede; keşifsel veri analizi (EDA), eksik değer analizi, kategorik ve sayısal özellik ayrımı, verilerin standartlaştırılması, kutu-grafik, sürü-grafik, kedigrafik ve korelasyon analizleri ile verinin yapısı detaylıca incelenmiştir. Aykırı değer tespitinden sonra farklı makine öğrenmesi modelleri uygulanmış, hiperparametre ayarlamaları ile en iyi sonuçlar elde edilmeye çalışılmıştır.</p>
 
@@ -51,7 +51,7 @@ DATAAI27
 - Kalp krizi geçiren kişilerde hızlı tıbbi müdahale hayati önem taşır. Acil tedavi genellikle kan pıhtısını çözücü ilaçları (trombolitikler), balon anjiyoplasti veya stent yerleştirme gibi yöntemleri içerir.
 - Kalp krizinden korunmak için sağlıklı bir yaşam tarzı benimsemek, düzenli egzersiz yapmak, dengeli beslenmek ve risk faktörlerini yönetmek büyük önem taşır.
 
-<img width="1280" height="720" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Kalp%20Krizi%20Belirtileri.png">
+<img width="1000" height="720" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Kalp%20Krizi%20Belirtileri.png">
 
 # **🛠️ Pazarlama Planı**
 
