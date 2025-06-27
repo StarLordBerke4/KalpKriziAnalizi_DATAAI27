@@ -54,6 +54,7 @@ DATAAI27
 <img width="1000" height="500" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Kalp%20Krizi%20Belirtileri.png">
 
 # **🛠️ Pazarlama Planı**
+<img width="1000" height="500" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Pazar%20Plan%C4%B1%202.jpg">
 
 ## 🟦 Ne Yaptık ve Neden Önemli?
 <p>Bu projede kalp krizi riskini erken aşamada tahmin etmeye yönelik bir yapay zeka modeli geliştirdik. Temel amacımız, hastanelerin veya dijital sağlık platformlarının insanların sağlık verileri üzerinden hızlı, doğru ve önleyici kararlar alabilmesini sağlamak. Veri temizleme, görselleştirme ve lojistik regresyon başta olmak üzere çeşitli modellemelerle ilerledik. Bu teknik süreçleri, herkesin anlayabileceği bir dille sadeleştirdik. Yani teknikle hayat arasında bir köprü kurduk.</p>
@@ -79,3 +80,45 @@ DATAAI27
 
 ## 🟦 Proje İçerindeki Tonumuz Nasıl Olacak?
 <p>Ne çok akademik ne de çok havalı. Biz anlaşılır, dürüst, samimi ve içgörü dolu bir dille konuşacağız. Amacımız teknolojiyi korkulacak bir şey olmaktan çıkarıp insanların hayatına değen bir araca dönüştürmek.</p>
+
+# **🌐 Web Sitesi Tanıtımı**
+<p>Kaggle üzerinde geliştirilen <b>“Sağlık Teması: Kalp Krizi Analizi ve Tahmini”</b> projemizi, herkesin kolayca ulaşabileceği bir formatta sunmak amacıyla bir **tek sayfalık tanıtım web sitesi** oluşturduk. Bu site, projenin amacını, kullanılan yöntemleri, görselleştirmeleri ve sonuçları sade ve kullanıcı dostu bir tasarımla aktarır. Aynı zamanda kullanıcıların canlı uygulamaya ulaşabileceği bağlantılar, örnek tahmin senaryoları ve hedef kitleye yönelik mesajlar da içerir. Böylece hem teknik kullanıcılar hem de sağlık sektörü paydaşları projeyi anlayabilir ve değerlendirebilir.</p>
+
+<p>Web sitesinin amacı sadece projeyi tanıtmak değil, aynı zamanda farkındalık oluşturmak ve projenin potansiyel kullanım alanlarını genişletmektir. Bu sayfa üzerinden hem canlı model demo bağlantısına ulaşılabilir hem de iş birliği yapmak isteyen kurumlar iletişim kurabilir. Kurumlar veya bireyler için güven verici, anlaşılır ve sade bir anlatım dili benimsenmiştir.</p>
+
+# **🤖 Kullanılan Teknolojiler ve Kütüphaneler**
+## 💻 Python Dili Hakkında
+<img width="1000" height="500" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Python.jpg">
+
+<p>Python, basit sözdizimi, geniş kütüphane desteği ve açık kaynak yapısıyla günümüzde en yaygın kullanılan programlama dillerinden biridir. Öğrenmesi kolay ve okunabilir olması sayesinde hem başlangıç seviyesindeki kullanıcılar hem de profesyoneller tarafından tercih edilir. Özellikle veri bilimi ve yapay zeka alanlarında sunduğu güçlü kütüphaneler (pandas, NumPy, scikit-learn, TensorFlow, PyTorch vb.) sayesinde veri analizi, makine öğrenmesi ve derin öğrenme projelerinde vazgeçilmez bir araç haline gelmiştir. Python, esnek yapısı ve topluluk desteği ile modern teknolojilerin merkezinde yer alır.</p>
+
+## 🛠️ Projede Kullanılan Kütüphaneler
+- <b>NumPy</b>, sayısal hesaplamalar için kullanılan temel bir Python kütüphanesidir. Özellikle vektör ve matris gibi çok boyutlu dizilerle çalışmak için kullanılır. Veri bilimi projelerinde hızlı matematiksel işlemler yapmamızı sağlar.
+- <b>Pandas</b>, veri analizi ve işleme konularında en yaygın kullanılan kütüphanelerden biridir. Verileri tablo şeklinde (DataFrame) düzenlememize, CSV veya Excel gibi dosyaları okumamıza ve üzerinde filtreleme, gruplama gibi işlemler yapmamıza olanak tanır.
+- <b>Matplotlib</b>, veri görselleştirme amacıyla kullanılır. Grafik, histogram, çizgi grafiği gibi temel görsel çıktılar üretir. Verilerin görsel yorumlanmasını kolaylaştırarak analiz sürecini destekler.
+- <b>Seaborn</b>, Matplotlib üzerine kurulu, daha gelişmiş ve estetik grafikler oluşturmamıza olanak sağlayan bir kütüphanedir. Özellikle istatistiksel grafikler ve korelasyon analizlerinde sıkça tercih edilir.
+- <b>OS</b>, işletim sistemiyle etkileşim kurmamıza yarayan bir kütüphanedir. Dosya yollarını okumak, dizinleri gezmek ve sistem üzerindeki dosyaları listelemek için kullanılır.
+- <b>LogisticRegression (scikit-learn)</b>, sınıflandırma problemlerinde kullanılan temel bir makine öğrenmesi algoritmasıdır. İki sınıf arasında olasılık temelli bir tahmin yaparak sonuç üretir.
+- <b>StandardScaler</b>, verileri standardize etmek yani ortalaması 0 ve standart sapması 1 olacak şekilde ölçeklemek için kullanılır. Bu işlem, özellikle makine öğrenmesi modellerinin daha sağlıklı öğrenmesi için önemlidir.
+- <b>train_test_split</b>, veri setini eğitim ve test olarak ikiye böler. Böylece model, bir kısmı üzerinde eğitilirken kalan veriyle performansı test edilir.
+- <b>GridSearchCV</b>, modelin hiperparametrelerini sistemli bir şekilde deneyerek en iyi kombinasyonu bulmayı sağlar. Modelin doğruluğunu artırmak için kullanılır.
+- <b>accuracy_score</b>, modelin tahminlerinin doğruluk oranını hesaplar. Gerçek etiketlerle tahmin edilen etiketlerin ne kadar örtüştüğünü yüzdelik olarak verir.
+- <b>roc_curve</b>, sınıflandırma modellerinin performansını ROC eğrisi üzerinden analiz etmeyi sağlar. Modelin duyarlılığı ve özgüllüğü gibi değerleri görsel olarak değerlendirmek için kullanılır.
+- <b>Warnings</b>, çalışma sırasında oluşabilecek uyarı mesajlarını kontrol eder. Gereksiz uyarıların ekrana çıkmasını engelleyerek kodun daha temiz görünmesini sağlar.
+  
+<img width="1000" height="500" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Python%20K%C3%BCt%C3%BCphaneleri.jpg">
+
+# **🛠️ Kullanılan Web Teknolojileri**
+- Web sitesinin temel yapısı **HTML (HyperText Markup Language)** ile oluşturulmuştur. HTML, sayfanın iskeletini ve içerik yapısını belirler: başlıklar, paragraflar, görseller, bağlantılar gibi her şey HTML ile tanımlanır. Projenin içeriği anlaşılır bir şekilde bölümlere ayrılmış, kullanıcı dostu bir deneyim hedeflenmiştir.
+
+- Siteye görsel estetik ve düzen kazandırmak için **CSS (Cascading Style Sheets)** kullanılmıştır. Arka plan renkleri, başlık stilleri, kutu yapıları, buton tasarımları ve responsive (mobil uyumlu) yapı CSS ile sağlanmıştır. Eğer daha interaktif özellikler (örneğin form doğrulama, animasyonlu bileşenler veya veri çekme) eklenmek istenirse, bu noktada **JavaScript** devreye girer. Şu anda proje tanıtımında temel HTML + CSS yeterli olsa da, ileride JavaScript desteğiyle form alanları, veri görselleştirme ve kullanıcı girişi gibi özellikler de entegre edilebilir.
+- 
+<img width="1000" height="500" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Web%20Teknolojileri.jpg">
+
+## **❤️ Sonuç ve Öneriler**
+
+## 💡 Öneriler
+<p>Bu çalışmanın devamında daha büyük ve çeşitli sağlık veri setleriyle modeli besleyerek daha sağlam ve güvenilir tahminler elde edilebilir. Ayrıca farklı algoritmalar (RandomForest, XGBoost, hatta derin öğrenme) ile model performansı karşılaştırılabilir. Projenin pratikte kullanılabilmesi için sade bir arayüz üzerinden halka açık test edilebilir hale getirilmesi de önemli bir adım olacaktır. En nihayetinde, sağlık alanında veri temelli kararlar almak için böyle sistemlerin yaygınlaşması gerekiyor ve biz de bunun ilk adımını attık diyebiliriz.</p>
+
+## ✅ Sonuç
+<p>Bu proje sayesinde kalp krizi riskini etkileyen temel sağlık göstergeleri üzerinde veri bilimiyle nasıl analiz yapılabileceğini ve bu verilerle makine öğrenmesi modellerinin nasıl eğitilebileceğini ortaya koyduk. Lojistik regresyon modeli ile oldukça tatmin edici bir doğruluk oranı yakaladık ve veri ön işleme, görselleştirme gibi adımların model başarısına olan etkisini net bir şekilde gördük. <b></b>Temel mesajımız şu oldu:</b> Kendi verimizi anlamak, bize sağlığımız hakkında erken ve anlamlı sinyaller verebilir.</p>
