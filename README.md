@@ -112,7 +112,7 @@ DATAAI27
 - Web sitesinin temel yapısı **HTML (HyperText Markup Language)** ile oluşturulmuştur. HTML, sayfanın iskeletini ve içerik yapısını belirler: başlıklar, paragraflar, görseller, bağlantılar gibi her şey HTML ile tanımlanır. Projenin içeriği anlaşılır bir şekilde bölümlere ayrılmış, kullanıcı dostu bir deneyim hedeflenmiştir.
 
 - Siteye görsel estetik ve düzen kazandırmak için **CSS (Cascading Style Sheets)** kullanılmıştır. Arka plan renkleri, başlık stilleri, kutu yapıları, buton tasarımları ve responsive (mobil uyumlu) yapı CSS ile sağlanmıştır. Eğer daha interaktif özellikler (örneğin form doğrulama, animasyonlu bileşenler veya veri çekme) eklenmek istenirse, bu noktada **JavaScript** devreye girer. Şu anda proje tanıtımında temel HTML + CSS yeterli olsa da, ileride JavaScript desteğiyle form alanları, veri görselleştirme ve kullanıcı girişi gibi özellikler de entegre edilebilir.
-- 
+
 <img width="1000" height="500" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Web%20Teknolojileri.jpg">
 
 ## **❤️ Sonuç ve Öneriler**
