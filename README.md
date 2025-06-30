@@ -116,7 +116,7 @@ DATAAI27
 
 <img width="1000" height="500" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Web%20Teknolojileri.jpg">
 
-# ** 📈 Proje Bağlantıları**
+# **📈 Proje Bağlantıları**
 - <b>Dataset:</b> <a>https://www.kaggle.com/datasets/sonialikhan/heart-attack-analysis-and-prediction-dataset</a>
 - <b>Kaggle:</b> <a>https://www.kaggle.com/code/starlordberke/sa-l-k-temas-kalp-krizi-analizi-ve-tahmini</a>
 
