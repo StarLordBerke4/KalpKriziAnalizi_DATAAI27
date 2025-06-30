@@ -10,11 +10,12 @@ DATAAI27
 <img width="500" height="500" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/DATAAI27%20Logo.png">
 
 # **👥Takım Üyeleri**
-- <b>Seda CANPOLAT</b> | Product Owner
+- <b>Seda CANPOLAT</b> | Product Owner and UI&UX Designer
 - <b>Berke Mert ÖZTÜRK</b> | Scrum Master and Developer
 - <b>Gamze GEZGİN</b> | Developer
 - <b>Beyza GÜVERCİN</b> | Developer
 - <b>Yücel Baran TUNCER</b> | Developer
+- <b>Gamze Yaş</b> | UI&UX Designer
 
 # **👽Tema**
 ❤️ Sağlık Teması
