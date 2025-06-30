@@ -83,7 +83,7 @@ DATAAI27
 <p>Ne çok akademik ne de çok havalı. Biz anlaşılır, dürüst, samimi ve içgörü dolu bir dille konuşacağız. Amacımız teknolojiyi korkulacak bir şey olmaktan çıkarıp insanların hayatına değen bir araca dönüştürmek.</p>
 
 # **🌐 Web Sitesi Tanıtımı**
-<p>Kaggle üzerinde geliştirilen <b>“Sağlık Teması: Kalp Krizi Analizi ve Tahmini”</b> projemizi, herkesin kolayca ulaşabileceği bir formatta sunmak amacıyla bir **tek sayfalık tanıtım web sitesi** oluşturduk. Bu site, projenin amacını, kullanılan yöntemleri, görselleştirmeleri ve sonuçları sade ve kullanıcı dostu bir tasarımla aktarır. Aynı zamanda kullanıcıların canlı uygulamaya ulaşabileceği bağlantılar, örnek tahmin senaryoları ve hedef kitleye yönelik mesajlar da içerir. Böylece hem teknik kullanıcılar hem de sağlık sektörü paydaşları projeyi anlayabilir ve değerlendirebilir.</p>
+<p>Kaggle üzerinde geliştirilen <b>“Sağlık Teması: Kalp Krizi Analizi ve Tahmini”</b> projemizi, herkesin kolayca ulaşabileceği bir formatta sunmak amacıyla bir "tek sayfalık tanıtım web sitesi" oluşturduk. Bu site, projenin amacını, kullanılan yöntemleri, görselleştirmeleri ve sonuçları sade ve kullanıcı dostu bir tasarımla aktarır. Aynı zamanda kullanıcıların canlı uygulamaya ulaşabileceği bağlantılar, örnek tahmin senaryoları ve hedef kitleye yönelik mesajlar da içerir. Böylece hem teknik kullanıcılar hem de sağlık sektörü paydaşları projeyi anlayabilir ve değerlendirebilir.</p>
 
 <p>Web sitesinin amacı sadece projeyi tanıtmak değil, aynı zamanda farkındalık oluşturmak ve projenin potansiyel kullanım alanlarını genişletmektir. Bu sayfa üzerinden hem canlı model demo bağlantısına ulaşılabilir hem de iş birliği yapmak isteyen kurumlar iletişim kurabilir. Kurumlar veya bireyler için güven verici, anlaşılır ve sade bir anlatım dili benimsenmiştir.</p>
 
@@ -115,6 +115,10 @@ DATAAI27
 - Siteye görsel estetik ve düzen kazandırmak için **CSS (Cascading Style Sheets)** kullanılmıştır. Arka plan renkleri, başlık stilleri, kutu yapıları, buton tasarımları ve responsive (mobil uyumlu) yapı CSS ile sağlanmıştır. Eğer daha interaktif özellikler (örneğin form doğrulama, animasyonlu bileşenler veya veri çekme) eklenmek istenirse, bu noktada **JavaScript** devreye girer. Şu anda proje tanıtımında temel HTML + CSS yeterli olsa da, ileride JavaScript desteğiyle form alanları, veri görselleştirme ve kullanıcı girişi gibi özellikler de entegre edilebilir.
 
 <img width="1000" height="500" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Web%20Teknolojileri.jpg">
+
+# ** 📈 Proje Bağlantıları**
+- <b>Dataset:</b><a>https://www.kaggle.com/datasets/sonialikhan/heart-attack-analysis-and-prediction-dataset</a>
+- <b>Kaggle:</b><a>https://www.kaggle.com/code/starlordberke/sa-l-k-temas-kalp-krizi-analizi-ve-tahmini</a>
 
 ## **❤️ Sonuç ve Öneriler**
 
