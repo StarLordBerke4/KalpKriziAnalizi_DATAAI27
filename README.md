@@ -218,9 +218,7 @@ DATAAI27
 
 <img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Kaggle-VeriAnalizi/KaggleVeriAnalizi5.jpg">
 
-<video width="320" height="240" autoplay>
-  <source src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Kaggle-VeriAnalizi/KaggleVeriAnalizi.mp4" type="video/mp4">
-</video>
+<br>
 
 https://github.com/user-attachments/assets/33cbb42f-4b0a-4534-9cea-2861f50d08ad
 
