@@ -129,11 +129,11 @@ DATAAI27
 <p>Bu proje sayesinde kalp krizi riskini etkileyen temel sağlık göstergeleri üzerinde veri bilimiyle nasıl analiz yapılabileceğini ve bu verilerle makine öğrenmesi modellerinin nasıl eğitilebileceğini ortaya koyduk. Lojistik regresyon modeli ile oldukça tatmin edici bir doğruluk oranı yakaladık ve veri ön işleme, görselleştirme gibi adımların model başarısına olan etkisini net bir şekilde gördük. <b></b>Temel mesajımız şu oldu:</b> Kendi verimizi anlamak, bize sağlığımız hakkında erken ve anlamlı sinyaller verebilir.</p>
 
 
-## ** 📂Sprint 1: Projeye İlk Adım**
+## **📂Sprint 1: Projeye İlk Adım**
 
 ### 🧙‍♂️ Sprint 1 Değerlendirme Notu (Scrum Master): Berke Mert ÖZTÜRK
 
-### ** 📋Sprint Notları**
+### **📋Sprint Notları**
 - Sprint 1 sürecinde, proje ekibi olarak temel yapı taşlarımızı belirleyerek işe başladık. Tema olarak “Sağlık” alanı seçildi ve bu kapsamda “Kalp Krizi Analizi ve Tahmini” konusuna odaklanıldı. Kaggle üzerinden temin edilen veri setiyle çalışılarak Python programlama dili ve ilgili kütüphaneler (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn vb.) aracılığıyla kapsamlı bir veri analizi gerçekleştirildi. Bu analiz sürecinde, veri setinin yapısı incelenip eksik veriler temizlendi, istatistiksel görselleştirmeler ve değişkenler arası ilişkiler ortaya kondu ve tahmin modelleri oluşturulmaya başlandı. Teknik ilerlemelerin takibi ve iş birliğinin sağlanması amacıyla GitHub üzerinde bir proje reposu açıldı.
 
 - Bu repoya ([https://github.com/StarLordBerke4/KalpKriziAnalizi\_DATAAI27](https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27)) Kaggle üzerinde hazırlanan analiz not defteri entegre edildi. Ayrıca, projenin amacı, kullanılan yöntemler ve gelecek sprintlerde izlenecek yol haritasını açıklayan kapsamlı bir README dosyası oluşturularak paylaşıldı.
@@ -144,13 +144,13 @@ DATAAI27
 
 - <b> 🟦Puan tamamlama mantığı:</b> Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
   
-### ** 📈Daily Scrum**
+### **📈Daily Scrum**
 - Daily Scrum toplantıları haftada bir "Google Meet" platformu üzerinden gerçekleştirilmiştir. Proje süreci ve proje durumu ile ilgili kapsamlı planlar ve yol haritası bu toplantılar ile belli olmuştur. Ayrıca; Slack ve Whatsapp üzerinden kurmuş olduğumuz; Bootcamp 27 isimli gruplar üzerinden proje ile ilgili beyin fırtınası ve kaynak paylaşımları gerçekleştirilmiştir.
 
-### ** 📌Sprint Review**
+### **📌Sprint Review**
 - Bu sprintin sonunda, projenin teması ve konusu netleşmiş, ilk veri analizi başarıyla tamamlanmış ve teknik dokümantasyonla birlikte proje altyapısı sağlam bir şekilde kurulmuş oldu.
 
-### ** 😎Sprint Review Katılımcıları**
+### **😎Sprint Review Katılımcıları**
 - Seda CANPOLAT 
 - Berke Mert ÖZTÜRK 
 - Gamze GEZGİN 
