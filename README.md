@@ -178,7 +178,7 @@ DATAAI27
 ### **🎑Sprint Board Update** 
 - Sprint board ekran görüntüleri.
 
-<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/DATAAI27%20Tak%C4%B1m%C4%B1m%C4%B1z.jpg">
+<img width="1000" height="300" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/DATAAI27%20Tak%C4%B1m%C4%B1m%C4%B1z.jpg">
 
 ### **📈Sprint Analizi**
 - Sprint analizi excell üzerinden gerçekleştirilerek tablo ve grafik haline getirilmiştir. 
