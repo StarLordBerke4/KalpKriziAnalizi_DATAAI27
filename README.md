@@ -175,7 +175,7 @@ DATAAI27
 
 - Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "Notion" üzerinden. Tamamlanan görevler; "Compluted" devam eden görevler ise; "İn Progress" olarak ifade edilmiştir.
 
-- <b>Sprint 1 Dökümanları:</b><a>https://www.notion.so/Sprint-1-2241183cdf848091acfad131302aeb95?source=copy_link<a/>
+- <b>Sprint 1 Dökümanları:</b> <a>https://www.notion.so/Sprint-1-2241183cdf848091acfad131302aeb95?source=copy_link<a/>
 
 ### **🎑Sprint Board Update** 
 - Sprint board ekran görüntüleri.
@@ -195,7 +195,7 @@ DATAAI27
 ### **📈Sprint Analizi**
 - Sprint analizi excell üzerinden gerçekleştirilerek tablo ve grafik haline getirilmiştir.
 
-- <b>Sprint 1 Analizi:</b><a>https://docs.google.com/spreadsheets/d/1swRpIoYD4gRlSr5okGVmQ7t9Z2ZUAXVpYBtHPz15V9Y/edit?usp=sharing</a>
+- <b>Sprint 1 Analizi:</b> <a>https://docs.google.com/spreadsheets/d/1swRpIoYD4gRlSr5okGVmQ7t9Z2ZUAXVpYBtHPz15V9Y/edit?usp=sharing</a>
 
 - Sprint analizine ilişkin ekran görüntüleri aşağıdadır.
 
