@@ -116,6 +116,25 @@ DATAAI27
 
 <img width="1000" height="500" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Web%20Teknolojileri.jpg">
 
+# **👥Sprint Yol Haritamız**
+
+<b>💙İlk Sprint:</b>
+- Veri tanıma ve notebook üzerine çalışma
+- Generative AI kullanım beyin fırtınaları
+- Notebook’un ilk versiyonlarının tamamlanması +
+
+<b>💙İkinci Sprint:</b>
+- Hangi web toolunun kullanacağının karar verilmesi
+- Modelin canlıya alınacak şekilde planlanması ve hazırlanması
+- Figma veya Adobe Xd programramları ile web sitesinin arayüz tasarımının hazırlanması. 
+- Web sitesinin tasarımı ve fonksiyon çalışmalarının başlanması
+- Generative AI girişimlerinin proje ve fonksiyon denemeleri
+
+<b>💙Üçüncü Sprint:</b>
+- Generative AI final
+- Web sitesi final
+- Testing
+
 # **📈 Proje Bağlantıları**
 - <b>Dataset:</b> <a>https://www.kaggle.com/datasets/sonialikhan/heart-attack-analysis-and-prediction-dataset</a>
 - <b>Kaggle:</b> <a>https://www.kaggle.com/code/starlordberke/sa-l-k-temas-kalp-krizi-analizi-ve-tahmini</a>
@@ -131,7 +150,7 @@ DATAAI27
 
 ## **📂Sprint 1: Projeye İlk Adım**
 
-### 🧙‍♂️ Sprint 1 Değerlendirme Notu (Scrum Master): Berke Mert ÖZTÜRK
+### 🧙‍♂️ Sprint 1 Değerlendirme Notu (Scrum Master) - Berke Mert ÖZTÜRK
 
 ### **📋Sprint Notları**
 - Sprint 1 sürecinde, proje ekibi olarak temel yapı taşlarımızı belirleyerek işe başladık. Tema olarak “Sağlık” alanı seçildi ve bu kapsamda “Kalp Krizi Analizi ve Tahmini” konusuna odaklanıldı. Kaggle üzerinden temin edilen veri setiyle çalışılarak Python programlama dili ve ilgili kütüphaneler (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn vb.) aracılığıyla kapsamlı bir veri analizi gerçekleştirildi. Bu analiz sürecinde, veri setinin yapısı incelenip eksik veriler temizlendi, istatistiksel görselleştirmeler ve değişkenler arası ilişkiler ortaya kondu ve tahmin modelleri oluşturulmaya başlandı. Teknik ilerlemelerin takibi ve iş birliğinin sağlanması amacıyla GitHub üzerinde bir proje reposu açıldı.
@@ -140,9 +159,9 @@ DATAAI27
 
 - <b> 🟦Sprint Aracı:</b>Takım olarak proje yönetiminde "Notion" platformunun kullanılması kararlaştırılmıştır.
 
-- <b> 🟦Sprint içinde tamamlanması tahmin edilen puan:</b> 100 Puan
+- <b> 🟦Sprint İçinde Tamamlanması Tahmin Edilen Puan:</b> 100 Puan
 
-- <b> 🟦Puan tamamlama mantığı:</b> Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- <b> 🟦Puan Tamamlama Mantığı:</b> Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
   
 ### **📈Daily Scrum**
 - Daily Scrum toplantıları haftada bir "Google Meet" platformu üzerinden gerçekleştirilmiştir. Proje süreci ve proje durumu ile ilgili kapsamlı planlar ve yol haritası bu toplantılar ile belli olmuştur. Ayrıca; Slack ve Whatsapp üzerinden kurmuş olduğumuz; Bootcamp 27 isimli gruplar üzerinden proje ile ilgili beyin fırtınası ve kaynak paylaşımları gerçekleştirilmiştir.
@@ -158,3 +177,8 @@ DATAAI27
 - Yücel Baran TUNCER 
 
 - <b>Asistana Not:</b> "Gamze YAŞ" arkadaşımız ekibe YZTA tarafından ekibe sonradan dahil edildiği için sprint 1 toplantısına katılamamıştır. Ancak kendi "UI&UX Designer" olarak Seda CANPOLAT arkadaşımız ile Sprint 2 içerisinde hazırlanacak web sitesinin arayüz tasarımında aktif olarak rol alacaktır.
+
+### **📌Sprint Review**
+- Veri tanıma ve notebook üzerin çalışmalar tamamlanacak.
+- Generative AI kullanım beyin fırtınaları yapılacak.
+
