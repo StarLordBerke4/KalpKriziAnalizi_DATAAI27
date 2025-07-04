@@ -222,6 +222,8 @@ DATAAI27
   <source src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Kaggle-VeriAnalizi/KaggleVeriAnalizi.mp4" type="video/mp4">
 </video>
 
+https://github.com/user-attachments/assets/33cbb42f-4b0a-4534-9cea-2861f50d08ad
+
 ### **📌Sprint Review**
 - Bu sprintin sonunda, projenin teması ve konusu netleşmiş, ilk veri analizi başarıyla tamamlanmış ve teknik dokümantasyonla birlikte proje altyapısı sağlam bir şekilde kurulmuş oldu.
 
