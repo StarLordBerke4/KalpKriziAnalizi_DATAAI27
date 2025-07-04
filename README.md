@@ -167,6 +167,7 @@ DATAAI27
 - Daily Scrum toplantıları haftada bir "Google Meet" platformu üzerinden gerçekleştirilmiştir. Proje süreci ve proje durumu ile ilgili kapsamlı planlar ve yol haritası bu toplantılar ile belli olmuştur. Ayrıca; Slack ve Whatsapp üzerinden kurmuş olduğumuz; Bootcamp 27 isimli gruplar üzerinden proje ile ilgili beyin fırtınası ve kaynak paylaşımları gerçekleştirilmiştir.
 
 - Yapılan takım toplantısı ekran görüntüsü.
+  
 <img width="1000" height="500" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/DATAAI27-Tak%C4%B1m%20Toplant%C4%B1s%C4%B1%201.jpg">
 
 ### **💻Backlog Düzeni** 
