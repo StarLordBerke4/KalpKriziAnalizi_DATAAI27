@@ -233,7 +233,7 @@ DATAAI27
 - Yücel Baran TUNCER 
 
 ### **👾Asistana Not**
-- "Gamze YAŞ" arkadaşımız ekibe YZTA tarafından ekibe sonradan dahil edildiği için sprint 1 toplantısına katılamamıştır. Ancak kendi "UI&UX Designer" olarak Seda CANPOLAT arkadaşımız ile Sprint 2 içerisinde hazırlanacak web sitesinin arayüz tasarımında aktif olarak rol alacaktır.
+- "Gamze YAŞ" arkadaşımız YZTA tarafından ekibe sonradan dahil edildiği için sprint 1 toplantısına katılamamıştır. Ancak kendi "UI&UX Designer" olarak Seda CANPOLAT arkadaşımız ile Sprint 2 içerisinde hazırlanacak web sitesinin arayüz tasarımında aktif olarak rol alacaktır.
 
 ### **📌Sprint Retrospective**
 - Veri tanıma ve notebook üzerin çalışmalar tamamlanacak.
