@@ -157,7 +157,7 @@ DATAAI27
 
 - Bu repoya ([https://github.com/StarLordBerke4/KalpKriziAnalizi\_DATAAI27](https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27)) Kaggle üzerinde hazırlanan analiz not defteri entegre edildi. Ayrıca, projenin amacı, kullanılan yöntemler ve gelecek sprintlerde izlenecek yol haritasını açıklayan kapsamlı bir README dosyası oluşturularak paylaşıldı.
 
-- <b> 🟦Sprint Aracı:</b>Takım olarak proje yönetiminde "Notion" platformunun kullanılması kararlaştırılmıştır.
+- <b> 🟦Sprint Aracı:</b> Takım olarak proje yönetiminde "Notion" platformunun kullanılması kararlaştırılmıştır.
 
 - <b> 🟦Sprint İçinde Tamamlanması Tahmin Edilen Puan:</b> 100 Puan
 
@@ -176,7 +176,8 @@ DATAAI27
 - Beyza GÜVERCİN 
 - Yücel Baran TUNCER 
 
-- <b>Asistana Not:</b> "Gamze YAŞ" arkadaşımız ekibe YZTA tarafından ekibe sonradan dahil edildiği için sprint 1 toplantısına katılamamıştır. Ancak kendi "UI&UX Designer" olarak Seda CANPOLAT arkadaşımız ile Sprint 2 içerisinde hazırlanacak web sitesinin arayüz tasarımında aktif olarak rol alacaktır.
+### **👾Asistana Not**
+- "Gamze YAŞ" arkadaşımız ekibe YZTA tarafından ekibe sonradan dahil edildiği için sprint 1 toplantısına katılamamıştır. Ancak kendi "UI&UX Designer" olarak Seda CANPOLAT arkadaşımız ile Sprint 2 içerisinde hazırlanacak web sitesinin arayüz tasarımında aktif olarak rol alacaktır.
 
 ### **📌Sprint Review**
 - Veri tanıma ve notebook üzerin çalışmalar tamamlanacak.
