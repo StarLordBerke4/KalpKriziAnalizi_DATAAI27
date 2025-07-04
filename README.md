@@ -178,6 +178,8 @@ DATAAI27
 ### **🎑Sprint Board Update** 
 - Sprint board ekran görüntüleri.
 
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/DATAAI27%20Tak%C4%B1m%C4%B1m%C4%B1z.jpg">
+
 ### **📈Sprint Analizi**
 - Sprint analizi excell üzerinden gerçekleştirilerek tablo ve grafik haline getirilmiştir. 
 
@@ -189,6 +191,16 @@ DATAAI27
 - <b>Kaggle Proje Linki:</b> <a>https://www.kaggle.com/code/starlordberke/sa-l-k-temas-kalp-krizi-analizi-ve-tahmini</a>
 
 - Sprint 1 sonunda projenin son durumuna ilişkin ekran görüntüleri aşağıda verilmiştir.
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Kaggle-VeriAnalizi/KaggleVeriAnalizi1.jpg">
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Kaggle-VeriAnalizi/KaggleVeriAnalizi2.jpg">
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Kaggle-VeriAnalizi/KaggleVeriAnalizi3.jpg">
+
+<video width="320" height="240" autoplay>
+  <source src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Kaggle-VeriAnalizi/KaggleVeriAnalizi.mp4" type="video/mp4">
+</video>
 
 ### **📌Sprint Review**
 - Bu sprintin sonunda, projenin teması ve konusu netleşmiş, ilk veri analizi başarıyla tamamlanmış ve teknik dokümantasyonla birlikte proje altyapısı sağlam bir şekilde kurulmuş oldu.
@@ -203,7 +215,7 @@ DATAAI27
 ### **👾Asistana Not**
 - "Gamze YAŞ" arkadaşımız ekibe YZTA tarafından ekibe sonradan dahil edildiği için sprint 1 toplantısına katılamamıştır. Ancak kendi "UI&UX Designer" olarak Seda CANPOLAT arkadaşımız ile Sprint 2 içerisinde hazırlanacak web sitesinin arayüz tasarımında aktif olarak rol alacaktır.
 
-### **📌Sprint Review**
+### **📌Sprint Retrospective**
 - Veri tanıma ve notebook üzerin çalışmalar tamamlanacak.
 - Generative AI kullanım beyin fırtınaları yapılacak.
 
