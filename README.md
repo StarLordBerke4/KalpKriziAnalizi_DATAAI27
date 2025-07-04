@@ -168,7 +168,7 @@ DATAAI27
 
 - Yapılan takım toplantısı ekran görüntüsü.
   
-<img width="1000" height="500" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/DATAAI27-Tak%C4%B1m%20Toplant%C4%B1s%C4%B1%201.jpg">
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/DATAAI27-Tak%C4%B1m%20Toplant%C4%B1s%C4%B1%201.jpg">
 
 ### **💻Backlog Düzeni** 
 - Backlog'umuz tarihlere göre düzenlenmiştir. Ayrıca yapılacak işler (tags) Sprint 1,2 ve 3 için gruplara bölünerek sıralanmıştır.
