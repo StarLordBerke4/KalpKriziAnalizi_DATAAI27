@@ -199,6 +199,8 @@ DATAAI27
 
 - Sprint analizine ilişkin ekran görüntüleri aşağıdadır.
 
+- <img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint1Analizi.jpg">
+
 ### **📂Proje Durumu**
 - Kaggle üzerinden temin edilen veri setiyle çalışılarak sağlık teması çerçevesinde, "Kalp Krizi" veri analizi gerçekleştirilmiştir. Yapılan analiz sonucunda elde edilen, proje dosyası "KalpKriziAnalizi_V9.ipynb" github repoza dahil edilmiş ve kaggle linki olarakta eklenmiştir.
   
