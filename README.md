@@ -173,12 +173,22 @@ DATAAI27
 ### **💻Backlog Düzeni** 
 - Backlog'umuz tarihlere göre düzenlenmiştir. Ayrıca yapılacak işler (tags) Sprint 1,2 ve 3 için gruplara bölünerek sıralanmıştır.
 
-- Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "Notion" üzerinden. Tamamlanan görevler; "Done" devam eden görevler ise; "İn Progress" olarak ifade edilmiştir.
+- Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "Notion" üzerinden. Tamamlanan görevler; "Compluted" devam eden görevler ise; "İn Progress" olarak ifade edilmiştir.
 
 ### **🎑Sprint Board Update** 
 - Sprint board ekran görüntüleri.
 
 <img width="1000" height="300" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/DATAAI27%20Tak%C4%B1m%C4%B1m%C4%B1z.jpg">
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/ProjeY%C3%B6netimi1.jpg">
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/ProjeY%C3%B6netimi2.jpg">
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/ProjeY%C3%B6netimi3.jpg">
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/ProjeY%C3%B6netimi4.jpg">
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/ProjeY%C3%B6netimi5.jpg">
 
 ### **📈Sprint Analizi**
 - Sprint analizi excell üzerinden gerçekleştirilerek tablo ve grafik haline getirilmiştir. 
