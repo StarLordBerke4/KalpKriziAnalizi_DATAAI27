@@ -166,6 +166,29 @@ DATAAI27
 ### **📈Daily Scrum**
 - Daily Scrum toplantıları haftada bir "Google Meet" platformu üzerinden gerçekleştirilmiştir. Proje süreci ve proje durumu ile ilgili kapsamlı planlar ve yol haritası bu toplantılar ile belli olmuştur. Ayrıca; Slack ve Whatsapp üzerinden kurmuş olduğumuz; Bootcamp 27 isimli gruplar üzerinden proje ile ilgili beyin fırtınası ve kaynak paylaşımları gerçekleştirilmiştir.
 
+- Yapılan takım toplantısı ekran görüntüsü.
+<img width="1000" height="500" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/DATAAI27-Tak%C4%B1m%20Toplant%C4%B1s%C4%B1%201.jpg">
+
+### **💻Backlog Düzeni** 
+- Backlog'umuz tarihlere göre düzenlenmiştir. Ayrıca yapılacak işler (tags) Sprint 1,2 ve 3 için gruplara bölünerek sıralanmıştır.
+
+- Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "Notion" üzerinden. Tamamlanan görevler; "Done" devam eden görevler ise; "İn Progress" olarak ifade edilmiştir.
+
+### **🎑Sprint Board Update** 
+- Sprint board ekran görüntüleri.
+
+### **📈Sprint Analizi**
+- Sprint analizi excell üzerinden gerçekleştirilerek tablo ve grafik haline getirilmiştir. 
+
+- Sprint analizine ilişkin ekran görüntüleri aşağıdadır.
+
+### **📂Proje Durumu**
+- Kaggle üzerinden temin edilen veri setiyle çalışılarak sağlık teması çerçevesinde, "Kalp Krizi" veri analizi gerçekleştirilmiştir. Yapılan analiz sonucunda elde edilen, proje dosyası "KalpKriziAnalizi_V9.ipynb" github repoza dahil edilmiş ve kaggle linki olarakta eklenmiştir.
+  
+- <b>Kaggle Proje Linki:</b> <a>https://www.kaggle.com/code/starlordberke/sa-l-k-temas-kalp-krizi-analizi-ve-tahmini</a>
+
+- Sprint 1 sonunda projenin son durumuna ilişkin ekran görüntüleri aşağıda verilmiştir.
+
 ### **📌Sprint Review**
 - Bu sprintin sonunda, projenin teması ve konusu netleşmiş, ilk veri analizi başarıyla tamamlanmış ve teknik dokümantasyonla birlikte proje altyapısı sağlam bir şekilde kurulmuş oldu.
 
