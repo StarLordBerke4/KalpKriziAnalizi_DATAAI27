@@ -267,10 +267,54 @@ https://github.com/user-attachments/assets/33cbb42f-4b0a-4534-9cea-2861f50d08ad
 ### **📈Daily Scrum**
 - Daily Scrum toplantıları haftada bir "Google Meet" platformu üzerinden gerçekleştirilmiştir. Proje süreci ve proje durumu ile ilgili kapsamlı planlar ve yol haritası bu toplantılar ile belli olmuştur. Ayrıca; Slack ve Whatsapp üzerinden kurmuş olduğumuz; Bootcamp 27 isimli gruplar üzerinden proje ile ilgili beyin fırtınası ve kaynak paylaşımları gerçekleştirilmiştir.
 
-- Yapılan takım toplantısı ekran görüntüsü. 13 temmuzda sprint 2 değerlendirme toplantısı yapılmıştır.
+- Yapılan takım toplantısı ekran görüntüsü. 13 Temmuz 2025 tarihinde sprint 2 değerlendirme toplantısı yapılmıştır.
 
 <img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint2%20Tak%C4%B1m%20Toplant%C4%B1s%C4%B1.jpg">
 
 - Yapılan takım toplantısına tüm ekip, tam kadro halinde katılmıştır.
 
 <img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint2%20Tak%C4%B1m%20Toplant%C4%B1s%C4%B1%202.jpg">
+
+### **💻Backlog Düzeni** 
+- Backlog'umuz tarihlere göre düzenlenmiştir. Ayrıca yapılacak işler (tags) Sprint 1,2 ve 3 için gruplara bölünerek sıralanmıştır.
+
+- Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "Notion" üzerinden. Tamamlanan görevler; "Compluted" devam eden görevler ise; "İn Progress" olarak ifade edilmiştir.
+
+- <b>Sprint 2 Dökümanları:</b> <a><a/>
+
+### **🎑Sprint 2 Board Update** 
+- Sprint board ekran görüntüleri.
+
+<img width="1000" height="300" src="">
+
+<img width="1000" height="400" src="">
+
+<img width="1000" height="400" src="">
+
+<img width="1000" height="400" src="">
+
+### **📈Sprint 2 Analizi**
+- Sprint 2 analizi excell üzerinden gerçekleştirilerek tablo ve grafik haline getirilmiştir.
+
+- <b>Sprint 2 Analizi:</b> <a>https://docs.google.com/spreadsheets/d/1swRpIoYD4gRlSr5okGVmQ7t9Z2ZUAXVpYBtHPz15V9Y/edit?usp=sharing</a>
+
+- Sprint 2 analizine ilişkin ekran görüntüleri aşağıdadır.
+
+- <img width="1000" height="400" src="">
+
+### **📂Proje Durumu**
+- Sprint 2 sonunda; Figma platformu üzerinden "KalpKriziAnalizi" projemizin UI web site arayüz tasarımı yapılmıştır. "kalp krizi tahmini ve analizi.fig" uzantılı figma dosyası halinde github repomuza eklenmiştir.
+  
+- <b>Figma Proje Linki:</b> <a>https://www.figma.com/design/g2zWBRtr6jyoARrciJoLpz/kalp-krizi-tahmini-ve-analizi?node-id=0-1&t=QEShsbURqPYrim2G-1</a>
+
+- Sprint 2 sonunda projenin son durumuna ilişkin ekran görüntüleri aşağıda verilmiştir.
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/UI%20Tasar%C4%B1m%20Figma/Web%20Sitesi%20UI%201.jpg">
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/UI%20Tasar%C4%B1m%20Figma/Web%20Sitesi%20UI%202.jpg">
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/UI%20Tasar%C4%B1m%20Figma/Web%20Sitesi%20UI%203.jpg">
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/UI%20Tasar%C4%B1m%20Figma/Web%20Sitesi%20UI%204.jpg">
+
+<img width="1000" height="400" src="">
