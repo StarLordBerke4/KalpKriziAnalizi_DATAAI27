@@ -317,4 +317,4 @@ https://github.com/user-attachments/assets/33cbb42f-4b0a-4534-9cea-2861f50d08ad
 
 <img width="1000" height="1400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/UI%20Tasar%C4%B1m%20Figma/Web%20Sitesi%20UI%204.jpg">
 
-<img width="1000" height="400" src="">
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/UI%20Tasar%C4%B1m%20Figma/Web%20UI%20Tasar%C4%B1m-min.jpg">
