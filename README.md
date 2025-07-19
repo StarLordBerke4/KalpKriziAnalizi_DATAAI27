@@ -110,6 +110,8 @@ DATAAI27
 <img width="1000" height="500" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Python%20K%C3%BCt%C3%BCphaneleri.jpg">
 
 # **🛠️ Kullanılan Web Teknolojileri**
+- **Figma** **Figma**, kullanıcı arayüzü (UI) ve kullanıcı deneyimi (UX) tasarımı için kullanılan bulut tabanlı bir tasarım ve prototipleme aracıdır. Tarayıcı üzerinden çalıştığı için kurulum gerektirmez ve farklı platformlardan kolay erişim sağlar. Figma’nın en güçlü yönlerinden biri, ekip üyelerinin aynı anda bir projede iş birliği yapabilmesidir; bu sayede gerçek zamanlı düzenleme, yorum yapma ve geri bildirim alma süreçleri hızlanır. Tasarımcılar arayüz çizimleri, prototipler ve bileşen sistemleri oluşturabilirken geliştiriciler de doğrudan tasarım üzerinden CSS gibi kodları görebilir. Eğitimden profesyonel projelere kadar geniş bir kullanım alanına sahiptir.
+
 - Web sitesinin temel yapısı **HTML (HyperText Markup Language)** ile oluşturulmuştur. HTML, sayfanın iskeletini ve içerik yapısını belirler: başlıklar, paragraflar, görseller, bağlantılar gibi her şey HTML ile tanımlanır. Projenin içeriği anlaşılır bir şekilde bölümlere ayrılmış, kullanıcı dostu bir deneyim hedeflenmiştir.
 
 - Siteye görsel estetik ve düzen kazandırmak için **CSS (Cascading Style Sheets)** kullanılmıştır. Arka plan renkleri, başlık stilleri, kutu yapıları, buton tasarımları ve responsive (mobil uyumlu) yapı CSS ile sağlanmıştır. Eğer daha interaktif özellikler (örneğin form doğrulama, animasyonlu bileşenler veya veri çekme) eklenmek istenirse, bu noktada **JavaScript** devreye girer. Şu anda proje tanıtımında temel HTML + CSS yeterli olsa da, ileride JavaScript desteğiyle form alanları, veri görselleştirme ve kullanıcı girişi gibi özellikler de entegre edilebilir.
@@ -138,6 +140,7 @@ DATAAI27
 # **📈 Proje Bağlantıları**
 - <b>Dataset:</b> <a>https://www.kaggle.com/datasets/sonialikhan/heart-attack-analysis-and-prediction-dataset</a>
 - <b>Kaggle:</b> <a>https://www.kaggle.com/code/starlordberke/sa-l-k-temas-kalp-krizi-analizi-ve-tahmini</a>
+- <b>Figma UI Web Sitesi Tasarımı:</b> <a>https://www.figma.com/design/g2zWBRtr6jyoARrciJoLpz/kalp-krizi-tahmini-ve-analizi?node-id=0-1&p=f&t=6hAqUvhAWNY1QPpo-0</a>
 
 ## **❤️ Sonuç ve Öneriler**
 
