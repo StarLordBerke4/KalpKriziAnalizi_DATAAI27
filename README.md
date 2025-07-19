@@ -118,7 +118,7 @@ DATAAI27
 # **🛠️ Kullanılan Web Teknolojileri**
 - **Figma**, kullanıcı arayüzü (UI) ve kullanıcı deneyimi (UX) tasarımı için kullanılan bulut tabanlı bir tasarım ve prototipleme aracıdır. Tarayıcı üzerinden çalıştığı için kurulum gerektirmez ve farklı platformlardan kolay erişim sağlar. Figma’nın en güçlü yönlerinden biri, ekip üyelerinin aynı anda bir projede iş birliği yapabilmesidir; bu sayede gerçek zamanlı düzenleme, yorum yapma ve geri bildirim alma süreçleri hızlanır. Tasarımcılar arayüz çizimleri, prototipler ve bileşen sistemleri oluşturabilirken geliştiriciler de doğrudan tasarım üzerinden CSS gibi kodları görebilir. Eğitimden profesyonel projelere kadar geniş bir kullanım alanına sahiptir.
 
-<img width="1000" height="500" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Figma.png">
+<img width="1000" height="500" src="">
 
 - Web sitesinin temel yapısı **HTML (HyperText Markup Language)** ile oluşturulmuştur. HTML, sayfanın iskeletini ve içerik yapısını belirler: başlıklar, paragraflar, görseller, bağlantılar gibi her şey HTML ile tanımlanır. Projenin içeriği anlaşılır bir şekilde bölümlere ayrılmış, kullanıcı dostu bir deneyim hedeflenmiştir.
 
