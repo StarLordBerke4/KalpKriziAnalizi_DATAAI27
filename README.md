@@ -280,18 +280,24 @@ https://github.com/user-attachments/assets/33cbb42f-4b0a-4534-9cea-2861f50d08ad
 
 - Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "Notion" üzerinden. Tamamlanan görevler; "Compluted" devam eden görevler ise; "İn Progress" olarak ifade edilmiştir.
 
-- <b>Sprint 2 Dökümanları:</b> <a><a/>
+- <b>Sprint 2 Dökümanları:</b> <a>https://www.notion.so/Sprint-2-Proje-Ortaya-k-yor-2241183cdf8480209402d7aa9b7b226a?source=copy_link<a/>
 
 ### **🎑Sprint 2 Board Update** 
 - Sprint 2 board ekran görüntüleri.
 
-<img width="1000" height="300" src="">
+<img width="1000" height="300" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint%202%20Proje%20Y%C3%B6netimi%201.jpg">
 
-<img width="1000" height="400" src="">
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint%202%20Proje%20Y%C3%B6netimi%202.jpg">
 
-<img width="1000" height="400" src="">
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint%202%20Proje%20Y%C3%B6netimi%203.jpg">
 
-<img width="1000" height="400" src="">
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint%202%20Proje%20Y%C3%B6netimi%204.jpg">
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint%202%20Proje%20Y%C3%B6netimi%205.jpg">
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint%202%20Proje%20Y%C3%B6netimi%206.jpg">
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint%202%20Proje%20Y%C3%B6netimi%207.jpg">
 
 ### **📈Sprint 2 Analizi**
 - Sprint 2 analizi excell üzerinden gerçekleştirilerek tablo ve grafik haline getirilmiştir.
