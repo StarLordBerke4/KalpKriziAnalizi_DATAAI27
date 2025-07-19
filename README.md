@@ -172,7 +172,7 @@ DATAAI27
 
 - <b> 🟦Sprint İçinde Tamamlanması Tahmin Edilen Puan:</b> 100 Puan
 
-- <b> 🟦Puan Tamamlama Mantığı:</b> Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- <b> 🟦Puan Tamamlama Mantığı:</b> Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. Proje 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
   
 ### **📈Daily Scrum**
 - Daily Scrum toplantıları haftada bir "Google Meet" platformu üzerinden gerçekleştirilmiştir. Proje süreci ve proje durumu ile ilgili kapsamlı planlar ve yol haritası bu toplantılar ile belli olmuştur. Ayrıca; Slack ve Whatsapp üzerinden kurmuş olduğumuz; Bootcamp 27 isimli gruplar üzerinden proje ile ilgili beyin fırtınası ve kaynak paylaşımları gerçekleştirilmiştir.
@@ -257,3 +257,21 @@ https://github.com/user-attachments/assets/33cbb42f-4b0a-4534-9cea-2861f50d08ad
 
 ### **📋Sprint Notları**
 - Sprint 2 kapsamında, projede önemli aşamalar kaydedilmiştir. Veri analiz süreci tamamlandıktan sonra elde edilen bulgular doğrultusunda canlıya alınması planlanan web uygulamasının kullanıcı arayüzü tasarımları oluşturulmuştur. Tasarım süreci, ekip üyelerinden Seda CANPOLAT ve Gamze YAŞ tarafından Figma programı aracılığıyla gerçekleştirilmiş, kullanıcı dostu ve estetik bir UI ortaya konmuştur. Arayüzde kullanıcıdan alınacak sağlık verilerinin doğru ve anlaşılır biçimde toplanması ve tahmin sonuçlarının görsel olarak sunulması amaçlanmıştır. Bu aşamada ayrıca Yücel Baran TUNCER tarafından model tarafında iyileştirmeler yapılmış; daha doğru tahminler verebilen ve veri setine daha iyi uyum sağlayan bir yapay zeka modeli geliştirilmiştir. Yapılan bu geliştirmeler, GitHub reposunda <a>[StarLordBerke4/KalpKriziAnalizi_DATAAI27](https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27)</a> adresinde dokümante edilmiştir. Tüm bu çalışmalar, projenin fonksiyonel ve görsel açıdan bütünsel bir yapıya kavuşmasını sağlamış; bir sonraki sprintte web sitesinin entegrasyon, kodlanma ve test sürecine geçiş için zemin oluşturmuştur.
+
+- <b> 🟦Sprint 2 Aracı:</b> Takım olarak proje yönetiminde "Notion" platformunun kullanılması kararlaştırılmıştır.
+
+- <b> 🟦Sprint 2 İçinde Tamamlanması Tahmin Edilen Puan:</b> 100 Puan
+
+- <b> 🟦Puan Tamamlama Mantığı:</b> Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. Proje 3 sprint'e bölündüğünde ikinci sprint'in en azından 100 olması gerektiğine karar verildi.
+
+### **📈Daily Scrum**
+- Daily Scrum toplantıları haftada bir "Google Meet" platformu üzerinden gerçekleştirilmiştir. Proje süreci ve proje durumu ile ilgili kapsamlı planlar ve yol haritası bu toplantılar ile belli olmuştur. Ayrıca; Slack ve Whatsapp üzerinden kurmuş olduğumuz; Bootcamp 27 isimli gruplar üzerinden proje ile ilgili beyin fırtınası ve kaynak paylaşımları gerçekleştirilmiştir.
+
+- Yapılan takım toplantısı ekran görüntüsü. 13 temmuzda sprint 2 değerlendirme toplantısı yapılmıştır.
+- Yapılan takım toplantısına tüm ekip, tam kadro halinde katılmıştır.
+  
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint2%20Tak%C4%B1m%20Toplant%C4%B1s%C4%B1.jpg">
+
+<br>
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint2%20Tak%C4%B1m%20Toplant%C4%B1s%C4%B1%202.jpg">
