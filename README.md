@@ -324,18 +324,18 @@ https://github.com/user-attachments/assets/33cbb42f-4b0a-4534-9cea-2861f50d08ad
 
 ## 🧙‍♂️ Sprint 2 Kısım 2: Model Üzerine Yapılan Gelişmeler ve Backend Çalışmaları
 
-# Kalp Krizi Prediction API (FastAPI + Railway)
+## 💻 Kalp Krizi Prediction API (FastAPI + Railway)
 
-## Açıklama
+## 📋 Açıklama
 Bu API, kullanıcının sağlık verilerine göre kalp krizi riski tahmini yapar ve Gemini API desteği ile Türkçe açıklama/öneriler üretebilir.  
 Railway üzerinde FastAPI framework kullanılarak deploy edilmiştir ve yapılan tahminleri PostgreSQL veritabanına kaydeder.
 
-## Base URL
+## 📌 Base URL
 https://kalpkrizibackendmodel-production.up.railway.app
 
-## Kullanılabilir Endpoint'ler
+## ⚙️ Kullanılabilir Endpoint'ler
 
-### GET `/`
+### 🟦 GET `/`
 Healthcheck endpoint.
 
 Örnek Response:
@@ -345,7 +345,7 @@ Healthcheck endpoint.
 }
 ```
 
-### POST `/predict`
+### 🟦 POST `/predict`
 Sağlık verilerini JSON formatında göndererek tahmin sonucu alınır.  
 Opsiyonel olarak `?explain=true` query parametresi kullanarak Gemini API'den açıklama ve öneriler de istenebilir.
 
@@ -381,7 +381,7 @@ Response örneği (`?explain=true` ile):
 }
 ```
 
-### POST `/ask-ai`
+### 🟦 POST `/ask-ai`
 Serbest metin sorularını Gemini API üzerinden cevaplar.
 
 Headers:
@@ -401,17 +401,17 @@ Response örneği:
 }
 ```
 
-## Frontend Takımı İçin Notlar
+### 📋 Frontend Takımı İçin Notlar
 - API CORS desteği açık (`allow_origins=["*"]`).
 - JSON body formatı yukarıdaki örneklere uygun olmalıdır.
 - Tüm response'lar JSON formatındadır.
 - Content-Type: application/json header'ı mutlaka gönderilmelidir.
 
-## Environment Variables
+### 📈 Environment Variables
 - DATABASE_URL: Railway PostgreSQL bağlantısı için gerekli.
 - GOOGLE_API_KEY: Gemini API için gerekli Google API Key.
 
-## Kullanılan Teknolojiler
+### ⚙️ Kullanılan Teknolojiler
 - FastAPI
 - SQLAlchemy + PostgreSQL
 - Railway deploy ortamı
