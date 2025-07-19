@@ -322,7 +322,7 @@ https://github.com/user-attachments/assets/33cbb42f-4b0a-4534-9cea-2861f50d08ad
 
 <img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/UI%20Tasar%C4%B1m%20Figma/Web%20UI%20Tasar%C4%B1m-min.jpg">
 
-## 🧙‍♂️ Sprint 2 Kısım 2: Model Üzerine Yapılan Gelişmeler ve Backend Çalışmaları
+## **🧙‍♂️ Sprint 2 Kısım 2: Model Üzerine Yapılan Gelişmeler ve Backend**
 
 ## 💻 Kalp Krizi Prediction API (FastAPI + Railway)
 
@@ -417,6 +417,8 @@ Response örneği:
 - Railway deploy ortamı
 - Python pickle (model ve scaler yüklemek için)
 - Google Gemini API entegrasyonu
+
+<hr>
 
 ### **📌Sprint 2 Review**
 - Bu sprintin sonunda, projenin UI arayüz tasarımı Figma ortamında hazırlanmıştır. Ayrıca model üzerine geliştirmeler yaparak çok daha sağlam veri analizi sonuçları elde edilmesi sağlanmıştır. Son olarak, web  sitesi yapımının temelleri atılarak backend tasarımına başlanılmış ve gerekli teknolojiler ile backend tarafında da çalışılmıştır.
