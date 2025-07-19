@@ -285,7 +285,7 @@ https://github.com/user-attachments/assets/33cbb42f-4b0a-4534-9cea-2861f50d08ad
 ### **🎑Sprint 2 Board Update** 
 - Sprint 2 board ekran görüntüleri.
 
-<img width="1000" height="300" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint%202%20Proje%20Y%C3%B6netimi%201.jpg">
+<img width="1000" height="500" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint%202%20Proje%20Y%C3%B6netimi%201.jpg">
 
 <img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint%202%20Proje%20Y%C3%B6netimi%202.jpg">
 
