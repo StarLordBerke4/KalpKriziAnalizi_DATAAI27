@@ -417,9 +417,10 @@ Response örneği:
 - Railway deploy ortamı
 - Python pickle (model ve scaler yüklemek için)
 - Google Gemini API entegrasyonu
-  
 
-### ** 📌 Sprint 2 Review**
+ <hr> 
+
+### **📌Sprint 2 Review**
 - Bu sprintin sonunda, projenin UI arayüz tasarımı Figma ortamında hazırlanmıştır. Ayrıca model üzerine geliştirmeler yaparak çok daha sağlam veri analizi sonuçları elde edilmesi sağlanmıştır. Son olarak, web  sitesi yapımının temelleri atılarak backend tasarımına başlanılmış ve gerekli teknolojiler ile backend tarafında da çalışılmıştır.
 
 ### **😎Sprint 2 Review Katılımcıları**
@@ -430,7 +431,7 @@ Response örneği:
 - Yücel Baran TUNCER
 - Gamze YAŞ
 
-- <b>Not:</b> Sprint 2 içerisimde tüm ekip üyeleri aktif olarak çalışmıştır.
+<b>Not:</b> Sprint 2 içerisimde tüm ekip üyeleri aktif olarak çalışmıştır.
 
 ### **👾Asistana Not**
 - Sprint 2 içerisinde takım kararıyla UI arayüz tasarımının yapılmasına ve modelin geliştirilmesine karar verilmiştir. Bu sebeple web sistesinin kodlanarak projenin canlıya alınması son sprint olan; sprint 3'e bırakılmıştır.
