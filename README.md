@@ -283,7 +283,7 @@ https://github.com/user-attachments/assets/33cbb42f-4b0a-4534-9cea-2861f50d08ad
 - <b>Sprint 2 Dökümanları:</b> <a><a/>
 
 ### **🎑Sprint 2 Board Update** 
-- Sprint board ekran görüntüleri.
+- Sprint 2 board ekran görüntüleri.
 
 <img width="1000" height="300" src="">
 
@@ -300,7 +300,7 @@ https://github.com/user-attachments/assets/33cbb42f-4b0a-4534-9cea-2861f50d08ad
 
 - Sprint 2 analizine ilişkin ekran görüntüleri aşağıdadır.
 
-- <img width="1000" height="400" src="">
+<img width="1000" height="400" src="">
 
 ### **📂Proje Durumu**
 - Sprint 2 sonunda; Figma platformu üzerinden "KalpKriziAnalizi" projemizin UI web site arayüz tasarımı yapılmıştır. "kalp krizi tahmini ve analizi.fig" uzantılı figma dosyası halinde github repomuza eklenmiştir.
