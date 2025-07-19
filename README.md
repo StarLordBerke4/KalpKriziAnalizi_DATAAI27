@@ -304,8 +304,10 @@ https://github.com/user-attachments/assets/33cbb42f-4b0a-4534-9cea-2861f50d08ad
 
 ### **📂Proje Durumu**
 - Sprint 2 iki parçaya bölünmüştür. İlk kısımda Web sistesinin UI arayüz tasarımı yapılmıştır. İkinci kısımda ise model üzerine geliştirmeler ve backend entegrasyonları gereçkleştirilmiştir.
+
+## 🧙‍♂️ Sprint 2 Kısım 1: UI Tasarım
 - Sprint 2 sonunda; Figma platformu üzerinden "KalpKriziAnalizi" projemizin UI web site arayüz tasarımı yapılmıştır. "kalp krizi tahmini ve analizi.fig" uzantılı figma dosyası halinde github repomuza eklenmiştir.
-  
+
 - <b>Figma Proje Linki:</b> <a>https://www.figma.com/design/g2zWBRtr6jyoARrciJoLpz/kalp-krizi-tahmini-ve-analizi?node-id=0-1&t=QEShsbURqPYrim2G-1</a>
 
 - Sprint 2 sonunda projenin son durumuna ilişkin ekran görüntüleri aşağıda verilmiştir.
@@ -320,6 +322,7 @@ https://github.com/user-attachments/assets/33cbb42f-4b0a-4534-9cea-2861f50d08ad
 
 <img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/UI%20Tasar%C4%B1m%20Figma/Web%20UI%20Tasar%C4%B1m-min.jpg">
 
+## 🧙‍♂️ Sprint 2 Kısım 2: Model Üzerine Yapılan Gelişmeler ve Backend Geliştirmeleri
 
 # Kalp Krizi Prediction API (FastAPI + Railway)
 
@@ -414,3 +417,19 @@ Response örneği:
 - Railway deploy ortamı
 - Python pickle (model ve scaler yüklemek için)
 - Google Gemini API entegrasyonu
+
+### **📌Sprint 2 Review**
+- Bu sprintin sonunda, projenin UI arayüz tasarımı Figma ortamında hazırlanmıştır. Ayrıca model üzerine geliştirmeler yaparak çok daha sağlam veri analizi sonuçları elde edilmesi sağlanmıştır. Son olarak, web  sitesi yapımının temelleri atılarak backend tasarımına başlanılmış ve gerekli teknolojiler ile backend tarafında da çalışılmıştır.
+
+### **😎Sprint 2 Review Katılımcıları**
+- Seda CANPOLAT 
+- Berke Mert ÖZTÜRK 
+- Gamze GEZGİN 
+- Beyza GÜVERCİN 
+- Yücel Baran TUNCER
+- Gamze YAŞ
+
+### **👾Asistana Not**
+- Sprint 2 içerisinde takım kararıyla UI arayüz tasarımının yapılmasına ve modelin geliştirilmesine karar verilmiştir. Bu sebeple web sistesinin kodlanarak projenin canlıya alınması son sprint olan; sprint 3'e bırakılmıştır.
+
+### **📌Sprint Retrospective**
