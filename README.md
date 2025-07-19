@@ -306,7 +306,7 @@ https://github.com/user-attachments/assets/33cbb42f-4b0a-4534-9cea-2861f50d08ad
 
 - Sprint 2 analizine ilişkin ekran görüntüleri aşağıdadır.
 
-<img width="1000" height="400" src="">
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint2%20Analizi.jpg">
 
 ### **📂Proje Durumu**
 - Sprint 2 iki parçaya bölünmüştür. İlk kısımda Web sistesinin UI arayüz tasarımı yapılmıştır. İkinci kısımda ise model üzerine geliştirmeler ve backend entegrasyonları gereçkleştirilmiştir.
