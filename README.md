@@ -434,4 +434,4 @@ Response örneği:
 ### **👾Asistana Not**
 - Sprint 2 içerisinde takım kararıyla UI arayüz tasarımının yapılmasına ve modelin geliştirilmesine karar verilmiştir. Bu sebeple web sistesinin kodlanarak projenin canlıya alınması son sprint olan; sprint 3'e bırakılmıştır.
 
-### **📌Sprint Retrospective**
+### **📌Sprint 2 Retrospective**
