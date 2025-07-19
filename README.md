@@ -419,7 +419,7 @@ Response örneği:
 - Google Gemini API entegrasyonu
   
 
-### **📌Sprint 2 Review**
+### ** 📌 Sprint 2 Review**
 - Bu sprintin sonunda, projenin UI arayüz tasarımı Figma ortamında hazırlanmıştır. Ayrıca model üzerine geliştirmeler yaparak çok daha sağlam veri analizi sonuçları elde edilmesi sağlanmıştır. Son olarak, web  sitesi yapımının temelleri atılarak backend tasarımına başlanılmış ve gerekli teknolojiler ile backend tarafında da çalışılmıştır.
 
 ### **😎Sprint 2 Review Katılımcıları**
