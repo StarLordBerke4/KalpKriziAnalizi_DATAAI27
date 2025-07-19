@@ -268,10 +268,9 @@ https://github.com/user-attachments/assets/33cbb42f-4b0a-4534-9cea-2861f50d08ad
 - Daily Scrum toplantıları haftada bir "Google Meet" platformu üzerinden gerçekleştirilmiştir. Proje süreci ve proje durumu ile ilgili kapsamlı planlar ve yol haritası bu toplantılar ile belli olmuştur. Ayrıca; Slack ve Whatsapp üzerinden kurmuş olduğumuz; Bootcamp 27 isimli gruplar üzerinden proje ile ilgili beyin fırtınası ve kaynak paylaşımları gerçekleştirilmiştir.
 
 - Yapılan takım toplantısı ekran görüntüsü. 13 temmuzda sprint 2 değerlendirme toplantısı yapılmıştır.
-- Yapılan takım toplantısına tüm ekip, tam kadro halinde katılmıştır.
-  
+
 <img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint2%20Tak%C4%B1m%20Toplant%C4%B1s%C4%B1.jpg">
 
-<br>
+- Yapılan takım toplantısına tüm ekip, tam kadro halinde katılmıştır.
 
 <img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint2%20Tak%C4%B1m%20Toplant%C4%B1s%C4%B1%202.jpg">
