@@ -544,11 +544,11 @@ Response örneği:
   
 - <b>Gamze Github:</b> <a>https://github.com/gamzegezgin/bootcamp-2025-data27</a>
 
-<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/DATAAI27%20Ortak%20Repo.jpg">
+<img width="1000" height="600" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/DATAAI27%20Ortak%20Repo.jpg">
 
-<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Gamze1.jpg">
+<img width="1000" height="600" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Gamze1.jpg">
 
-<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Gamze2.jpg">
+<img width="1000" height="600" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Gamze2.jpg">
 
 ### **👉Proje Tamamlanma Durumu:
 Proje, Sprint 3'ün başarıyla tamamlanmasıyla birlikte işlevsel ve görsel olarak tamamlanmış bir yapıya ulaşmıştır. Tüm görevler zamanında ve %100 başarıyla yerine getirilmiştir.
@@ -573,9 +573,16 @@ Proje, Sprint 3'ün başarıyla tamamlanmasıyla birlikte işlevsel ve görsel o
 Sprint 3 içerisinde hazırlamış olduğumuz web sitesinin dosyaları büyüktür. Bu sebeple bazı dosyaları github'a entegre ederken sorun yaşadık. 
 Bu sorunu ise; iki şekilde çözdük;
 - İlk olarak, web sitesi dosyalarını "WİN RAR" yazılımı ile sıkıştırarak "Web_Sitesi_Backend_Frontend_DATAAI27-RAR" isimli klasör ile github repomuza dahil ettik. Web sitesi dosyalarını masaüstüne indirerek rar boş bir klasör içerisine ayıklayarak inceleyebilirsiniz.
+
+<img width="1000" height="600" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/DATAAI27%20Ortak%20Repo.jpg">
+
+<img width="1000" height="600" src="">
+  
 - İkinci olarak ise; gene web sitemizin dosya boyutunun büyük olması nedeni ile web sitesi dosyalarımızı google drivea yükleyerek link olarak repomuza dahil ettik.
 
-### **📌Sprint 2 Retrospective**
+<img width="1000" height="600" src="">
+
+### **📌Sprint 3 Retrospective**
 - Kullanıcıdan alınan sağlık verileri üzerinden kalp krizi riski tahmini yapan bir yapay zeka destekli web uygulaması geliştirilmiştir.
 - Gerçek dünya problemini çözmeye odaklı, uygulanabilir bir dijital sağlık çözümü sunulmuştur.
 - Proje, sade ve kullanıcı dostu bir arayüze sahiptir.
