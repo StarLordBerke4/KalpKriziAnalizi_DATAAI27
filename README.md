@@ -149,6 +149,7 @@ DATAAI27
 - <b>Dataset:</b> <a>https://www.kaggle.com/datasets/sonialikhan/heart-attack-analysis-and-prediction-dataset</a>
 - <b>Kaggle:</b> <a>https://www.kaggle.com/code/starlordberke/sa-l-k-temas-kalp-krizi-analizi-ve-tahmini</a>
 - <b>Figma UI Web Sitesi Tasarımı:</b> <a>https://www.figma.com/design/g2zWBRtr6jyoARrciJoLpz/kalp-krizi-tahmini-ve-analizi?node-id=0-1&p=f&t=6hAqUvhAWNY1QPpo-0</a>
+- <b>Web Sitemiz:</b> <a>https://kalp-kriz-risk-analizi-bootcamp2025-ai27.onrender.com/</a>
 
 ## **❤️ Sonuç ve Öneriler**
 
