@@ -541,8 +541,6 @@ Response örneği:
 
 - <b>Proje Tanıtım Videomuz:</b> <a>https://youtu.be/4JjewEOYDBM</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4JjewEOYDBM?si=QT3-30PszAvrmN6H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ### Not: 
 - Sprint 3 içerisinde web sitemizin frontend ve backend teknolojileri ile kodlanmasını "Gamze GEZGİN" arkadaşımız yapmıştır. İlgili dosyalar takım repomuza dahil edilmiştir. Ancak ek olarak, "Gamze GEZGİN" arkadaşımızın kişisel github hesabı üzerinden de web sitesi ile ilgili dosyalara ulaşabilirsiniz.
   
@@ -554,7 +552,7 @@ Response örneği:
 
 <img width="1000" height="600" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Gamze2.jpg">
 
-### **👉 Proje Tamamlanma Durumu:
+### **👉 Proje Tamamlanma Durumu:**
 Proje, Sprint 3'ün başarıyla tamamlanmasıyla birlikte işlevsel ve görsel olarak tamamlanmış bir yapıya ulaşmıştır. Tüm görevler zamanında ve %100 başarıyla yerine getirilmiştir.
 
 ### **📌Sprint 3 Review**
@@ -595,3 +593,6 @@ Bu sorunu ise; iki şekilde çözdük;
 
 ### **🧙‍♂️Genel Sonuç:**
 Proje, belirlenen hedefler doğrultusunda başarılı şekilde tamamlanmıştır. Fonksiyonel, kullanıcı odaklı ve teknik açıdan sorunsuz çalışan bir sistem ortaya konmuş, proje çıktıları dokümante edilerek yayınlanmaya hazır hale getirilmiştir.
+
+### **🎥Tanıtım Videosu**
+- <b>Proje Tanıtım Videomuz:</b> <a>https://youtu.be/4JjewEOYDBM</a>
