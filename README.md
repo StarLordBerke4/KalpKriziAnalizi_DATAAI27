@@ -544,8 +544,8 @@ Response örneği:
   
 - <b>Gamze Github:</b> <a>https://github.com/gamzegezgin/bootcamp-2025-data27</a>
 
-<img width="1000" height="1400" src="">
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/DATAAI27%20Ortak%20Repo.jpg">
 
-<img width="1000" height="1400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Gamze1.jpg">
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Gamze1.jpg">
 
-<img width="1000" height="1400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Gamze2.jpg">
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Gamze2.jpg">
