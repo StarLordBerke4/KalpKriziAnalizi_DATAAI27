@@ -484,8 +484,10 @@ Response örneği:
 
 - Yapılan takım toplantısı ekran görüntüsü. 01 Ağustos 2025 tarihinde sprint 3 değerlendirme toplantısı yapılmıştır.
 
-<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint2%20Tak%C4%B1m%20Toplant%C4%B1s%C4%B1.jpg">
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint3%20Tak%C4%B1m%20Toplant%C4%B1s%C4%B1%201.jpg">
 
 - Yapılan takım toplantısına tüm ekip, tam kadro halinde katılmıştır.
 
-<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint2%20Tak%C4%B1m%20Toplant%C4%B1s%C4%B1%202.jpg">
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint3%20Tak%C4%B1m%20Toplant%C4%B1s%C4%B1%202.jpg">
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint3%20Tak%C4%B1m%20Toplant%C4%B1s%C4%B1%203.jpg">
