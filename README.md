@@ -576,11 +576,11 @@ Bu sorunu ise; iki şekilde çözdük;
 
 <img width="1000" height="600" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/DATAAI27%20Ortak%20Repo.jpg">
 
-<img width="1000" height="600" src="">
+<img width="1000" height="600" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/DATAAI27%20Ortak%20Repo%202.jpg">
   
 - İkinci olarak ise; gene web sitemizin dosya boyutunun büyük olması nedeni ile web sitesi dosyalarımızı google drivea yükleyerek link olarak repomuza dahil ettik.
 
-<img width="1000" height="600" src="">
+<img width="1000" height="600" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/DATAAI27%20Ortak%20Repo%203.jpg">
 
 ### **📌Sprint 3 Retrospective**
 - Kullanıcıdan alınan sağlık verileri üzerinden kalp krizi riski tahmini yapan bir yapay zeka destekli web uygulaması geliştirilmiştir.
