@@ -541,6 +541,8 @@ Response örneği:
 
 - <b>Proje Tanıtım Videomuz:</b> <a>https://youtu.be/4JjewEOYDBM</a>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4JjewEOYDBM?si=QT3-30PszAvrmN6H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Not: 
 - Sprint 3 içerisinde web sitemizin frontend ve backend teknolojileri ile kodlanmasını "Gamze GEZGİN" arkadaşımız yapmıştır. İlgili dosyalar takım repomuza dahil edilmiştir. Ancak ek olarak, "Gamze GEZGİN" arkadaşımızın kişisel github hesabı üzerinden de web sitesi ile ilgili dosyalara ulaşabilirsiniz.
   
