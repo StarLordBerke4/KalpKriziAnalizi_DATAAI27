@@ -149,7 +149,7 @@ DATAAI27
 - <b>Dataset:</b> <a>https://www.kaggle.com/datasets/sonialikhan/heart-attack-analysis-and-prediction-dataset</a>
 - <b>Kaggle:</b> <a>https://www.kaggle.com/code/starlordberke/sa-l-k-temas-kalp-krizi-analizi-ve-tahmini</a>
 - <b>Figma UI Web Sitesi Tasarımı:</b> <a>https://www.figma.com/design/g2zWBRtr6jyoARrciJoLpz/kalp-krizi-tahmini-ve-analizi?node-id=0-1&p=f&t=6hAqUvhAWNY1QPpo-0</a>
-- <b>Web Sitesi Dosyaları (Buluta Yedeklenmiş Hali):</b> <a></a>
+- <b>Web Sitesi Dosyaları (Buluta Yedeklenmiş Hali):</b> <a>https://drive.google.com/drive/folders/10QkLLsGrR8oj-pzh4bHLE6-_rbYjQiPr?usp=sharing</a>
 - <b>Web Sitemiz:</b> <a>https://kalp-kriz-risk-analizi-bootcamp2025-ai27.onrender.com/</a>
 
 ## **❤️ Sonuç ve Öneriler**
@@ -539,6 +539,8 @@ Response örneği:
 
 <img width="1000" height="1400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Web_Sitesi_Backend_Frontend_DATAAI27/%C4%B0mg/Web%20Sitesi%203.png">
 
+- <b>Proje Tanıtım Videomuz:</b> <a>https://youtu.be/4JjewEOYDBM</a>
+
 ### Not: 
 - Sprint 3 içerisinde web sitemizin frontend ve backend teknolojileri ile kodlanmasını "Gamze GEZGİN" arkadaşımız yapmıştır. İlgili dosyalar takım repomuza dahil edilmiştir. Ancak ek olarak, "Gamze GEZGİN" arkadaşımızın kişisel github hesabı üzerinden de web sitesi ile ilgili dosyalara ulaşabilirsiniz.
   
@@ -581,6 +583,8 @@ Bu sorunu ise; iki şekilde çözdük;
 - İkinci olarak ise; gene web sitemizin dosya boyutunun büyük olması nedeni ile web sitesi dosyalarımızı google drivea yükleyerek link olarak repomuza dahil ettik.
 
 <img width="1000" height="600" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/DATAAI27%20Ortak%20Repo%203.jpg">
+
+- <b>Web Sitesi Dosyaları (Buluta Yedeklenmiş Hali):</b> <a>https://drive.google.com/drive/folders/10QkLLsGrR8oj-pzh4bHLE6-_rbYjQiPr?usp=sharing</a>
 
 ### **📌Sprint 3 Retrospective**
 - Kullanıcıdan alınan sağlık verileri üzerinden kalp krizi riski tahmini yapan bir yapay zeka destekli web uygulaması geliştirilmiştir.
