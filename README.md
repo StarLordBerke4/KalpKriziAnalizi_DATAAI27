@@ -427,6 +427,15 @@ Response örneği:
 - Python pickle (model ve scaler yüklemek için)
 - Google Gemini API entegrasyonu
 
+### Not: 
+- Sprint 2 içerisinde model üzerine geliştirmeleri "Yücel Baran TUNCER" arkadaşımız yapmıştır. İlgili dosyalar takım repomuza dahil edilmiştir. Ancak ek olarak, "Yücel Baran TUNCER" arkadaşımızın kişisel github hesabı üzerinden de ilgili dosyalara ulaşabilirsiniz.
+
+<img width="1000" height="1400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/UI%20Tasar%C4%B1m%20Figma/Web%20Sitesi%20UI%204.jpg">
+
+<img width="1000" height="1400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Baran1.jpg">
+
+<img width="1000" height="1400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Baran2.jpg">
+
  <hr> 
 
 ### **📌Sprint 2 Review**
