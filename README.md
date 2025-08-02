@@ -533,8 +533,8 @@ Response örneği:
 
 - Sprint 3 sonunda projenin son durumuna ilişkin ekran görüntüleri aşağıda verilmiştir.
 
-<img width="1000" height="1400" src="">
+<img width="1000" height="1400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Web_Sitesi_Backend_Frontend_DATAAI27/%C4%B0mg/Web%20Sitesi%201.png">
 
-<img width="1000" height="1400" src="">
+<img width="1000" height="1400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Web_Sitesi_Backend_Frontend_DATAAI27/%C4%B0mg/Web%20Sitesi%202.png">
 
-<img width="1000" height="1400" src="">
+<img width="1000" height="1400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Web_Sitesi_Backend_Frontend_DATAAI27/%C4%B0mg/Web%20Sitesi%203.png">
