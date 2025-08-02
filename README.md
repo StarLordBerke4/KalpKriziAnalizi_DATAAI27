@@ -429,8 +429,10 @@ Response örneği:
 
 ### Not: 
 - Sprint 2 içerisinde model üzerine geliştirmeleri "Yücel Baran TUNCER" arkadaşımız yapmıştır. İlgili dosyalar takım repomuza dahil edilmiştir. Ancak ek olarak, "Yücel Baran TUNCER" arkadaşımızın kişisel github hesabı üzerinden de ilgili dosyalara ulaşabilirsiniz.
+  
+- <b>Baran Github:</b> <a>https://github.com/brntncr/kalpkrizi_backend_model</a>
 
-<img width="1000" height="1400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/UI%20Tasar%C4%B1m%20Figma/Web%20Sitesi%20UI%204.jpg">
+<img width="1000" height="1400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/DATAAI27%20Tak%C4%B1m%20Reposu1.jpg">
 
 <img width="1000" height="1400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Baran1.jpg">
 
@@ -462,3 +464,7 @@ Response örneği:
 - Ekip içi görev dağılımı netleşti, iş birliği verimli ilerledi.
 - Web sistemine entegre edilecek modüller için temel taslaklar tamamlandı.
 - GitHub reposu düzenli olarak güncellendi ve belgelendi.
+
+## **📂Sprint 3: Proje Sonu**
+
+### 🧙‍♂️ Sprint 3 Değerlendirme Notu (Scrum Master) - Berke Mert ÖZTÜRK
