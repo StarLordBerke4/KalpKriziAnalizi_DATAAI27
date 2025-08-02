@@ -549,3 +549,36 @@ Response örneği:
 <img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Gamze1.jpg">
 
 <img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Gamze2.jpg">
+
+### **👉Proje Tamamlanma Durumu:
+Proje, Sprint 3'ün başarıyla tamamlanmasıyla birlikte işlevsel ve görsel olarak tamamlanmış bir yapıya ulaşmıştır. Tüm görevler zamanında ve %100 başarıyla yerine getirilmiştir.
+
+### **📌Sprint 3 Review**
+- UI/UX tasarımları önceki sprintte hazırlanmıştı, başarı ile bu sprintte yazılım süreçlerine entegre edilmiştir.
+- Web sitesinin front-end ve back-end geliştirmeleri tamamlanmış, yapay zeka modeli sisteme başarıyla entegre edilmiştir.
+- Projenin test süreci yürütülerek işlevsel hatalar giderilmiş, kullanıcı deneyimi iyileştirilmiştir.
+- Tüm kaynak kodlar ve dokümantasyonlar GitHub üzerinden erişime açılmıştır.
+
+### **😎Sprint 3 Review Katılımcıları**
+- Seda CANPOLAT 
+- Berke Mert ÖZTÜRK 
+- Gamze GEZGİN 
+- Beyza GÜVERCİN 
+- Yücel Baran TUNCER
+- Gamze YAŞ
+
+<b>Not:</b> Sprint 3 içerisimde tüm ekip üyeleri aktif olarak çalışmıştır.
+
+### **👾Asistana Not**
+Sprint 3 içerisinde hazırlamış olduğumuz web sitesinin dosyaları büyüktür. Bu sebeple bazı dosyaları github'a entegre ederken sorun yaşadık. 
+Bu sorunu ise; iki şekilde çözdük;
+- İlk olarak, web sitesi dosyalarını "WİN RAR" yazılımı ile sıkıştırarak "Web_Sitesi_Backend_Frontend_DATAAI27-RAR" isimli klasör ile github repomuza dahil ettik. Web sitesi dosyalarını masaüstüne indirerek rar boş bir klasör içerisine ayıklayarak inceleyebilirsiniz.
+- İkinci olarak ise; gene web sitemizin dosya boyutunun büyük olması nedeni ile web sitesi dosyalarımızı google drivea yükleyerek link olarak repomuza dahil ettik.
+
+### **📌Sprint 2 Retrospective**
+- Kullanıcıdan alınan sağlık verileri üzerinden kalp krizi riski tahmini yapan bir yapay zeka destekli web uygulaması geliştirilmiştir.
+- Gerçek dünya problemini çözmeye odaklı, uygulanabilir bir dijital sağlık çözümü sunulmuştur.
+- Proje, sade ve kullanıcı dostu bir arayüze sahiptir.
+
+### **🧙‍♂️Genel Sonuç:**
+Proje, belirlenen hedefler doğrultusunda başarılı şekilde tamamlanmıştır. Fonksiyonel, kullanıcı odaklı ve teknik açıdan sorunsuz çalışan bir sistem ortaya konmuş, proje çıktıları dokümante edilerek yayınlanmaya hazır hale getirilmiştir.
