@@ -514,4 +514,4 @@ Response örneği:
 
 <img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint%203%20Proje%20Y%C3%B6netimi%206.jpg">
 
-<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint%203%20Proje%20Y%C3%B6netimi%206.jpg">
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint%203%20Proje%20Y%C3%B6netimi%207.jpg">
