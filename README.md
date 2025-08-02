@@ -149,6 +149,7 @@ DATAAI27
 - <b>Dataset:</b> <a>https://www.kaggle.com/datasets/sonialikhan/heart-attack-analysis-and-prediction-dataset</a>
 - <b>Kaggle:</b> <a>https://www.kaggle.com/code/starlordberke/sa-l-k-temas-kalp-krizi-analizi-ve-tahmini</a>
 - <b>Figma UI Web Sitesi Tasarımı:</b> <a>https://www.figma.com/design/g2zWBRtr6jyoARrciJoLpz/kalp-krizi-tahmini-ve-analizi?node-id=0-1&p=f&t=6hAqUvhAWNY1QPpo-0</a>
+- <b>Web Sitesi Dosyaları (Buluta Yedeklenmiş Hali):</b> <a></a>
 - <b>Web Sitemiz:</b> <a>https://kalp-kriz-risk-analizi-bootcamp2025-ai27.onrender.com/</a>
 
 ## **❤️ Sonuç ve Öneriler**
@@ -524,3 +525,16 @@ Response örneği:
 - Sprint 3 analizine ilişkin ekran görüntüleri aşağıdadır.
 
 <img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint3%20Analizi.jpg">
+
+### **📂Proje Durumu**
+- Sprint 3'ün başarıyla tamamlanmasının ardından proje, fonksiyonel olarak kullanılabilir ve yayına hazır bir dijital sağlık uygulamasına dönüşmüştür. Web sitesinin hem front-end hem de back-end geliştirmeleri tamamlanmış, yapay zeka modelinin sistemle entegrasyonu sağlanmıştır. Uygulama, kullanıcıların belirli sağlık verilerini girerek kalp krizi risklerini öğrenmelerini amaçlayan işlevsel bir arayüz sunmaktadır. Web sitesinde iki temel sayfa yer almaktadır: Ana Sayfa ve Sonuç Sayfası. Ana sayfada kullanıcılar yaş, cinsiyet, kolesterol seviyesi, kan basıncı gibi çeşitli sağlık metriklerini içeren bir form aracılığıyla verilerini sisteme girerler. Bu veriler, arka planda çalışan yapay zeka modeli tarafından analiz edilerek değerlendirilir. Kullanıcı formu doldurup gönderdiğinde yönlendirildiği Sonuç Sayfasında, girilen verilere göre hesaplanan kalp krizi riski kullanıcıya açık ve anlaşılır bir şekilde görsel olarak sunulur. Sistem, kullanıcı dostu ve mobil uyumlu bir tasarıma sahiptir; aynı zamanda doğru veri analizi ve hızlı geri dönüş sağlayan bir altyapı üzerine kuruludur. Tüm kodlar ve dokümantasyon GitHub reposunda güncel olarak yayınlanmış, proje genel anlamda hedeflerine ulaşmış ve sonraki geliştirme aşamaları için sağlam bir temel oluşturmuştur.
+
+- <b>Web Sitemiz:</b> <a>https://kalp-kriz-risk-analizi-bootcamp2025-ai27.onrender.com/</a>
+
+- Sprint 3 sonunda projenin son durumuna ilişkin ekran görüntüleri aşağıda verilmiştir.
+
+<img width="1000" height="1400" src="">
+
+<img width="1000" height="1400" src="">
+
+<img width="1000" height="1400" src="">
