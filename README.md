@@ -552,7 +552,7 @@ Response örneği:
 
 <img width="1000" height="600" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Gamze2.jpg">
 
-### ** 👉Proje Tamamlanma Durumu:
+### **👉 Proje Tamamlanma Durumu:
 Proje, Sprint 3'ün başarıyla tamamlanmasıyla birlikte işlevsel ve görsel olarak tamamlanmış bir yapıya ulaşmıştır. Tüm görevler zamanında ve %100 başarıyla yerine getirilmiştir.
 
 ### **📌Sprint 3 Review**
