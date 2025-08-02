@@ -270,7 +270,7 @@ https://github.com/user-attachments/assets/33cbb42f-4b0a-4534-9cea-2861f50d08ad
 ### **📈Daily Scrum**
 - Daily Scrum toplantıları haftada bir "Google Meet" platformu üzerinden gerçekleştirilmiştir. Proje süreci ve proje durumu ile ilgili kapsamlı planlar ve yol haritası bu toplantılar ile belli olmuştur. Ayrıca; Slack ve Whatsapp üzerinden kurmuş olduğumuz; Bootcamp 27 isimli gruplar üzerinden proje ile ilgili beyin fırtınası ve kaynak paylaşımları gerçekleştirilmiştir.
 
-- Yapılan takım toplantısı ekran görüntüsü. 13 Temmuz 2025 tarihinde sprint 2 değerlendirme toplantısı yapılmıştır.
+- Yapılan takım toplantısı ekran görüntüsü. "13 Temmuz 2025" tarihinde sprint 2 değerlendirme toplantısı yapılmıştır.
 
 <img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint2%20Tak%C4%B1m%20Toplant%C4%B1s%C4%B1.jpg">
 
@@ -482,7 +482,7 @@ Response örneği:
 ### **📈Daily Scrum**
 - Daily Scrum toplantıları haftada bir "Google Meet" platformu üzerinden gerçekleştirilmiştir. Proje süreci ve proje durumu ile ilgili kapsamlı planlar ve yol haritası bu toplantılar ile belli olmuştur. Ayrıca; Slack ve Whatsapp üzerinden kurmuş olduğumuz; Bootcamp 27 isimli gruplar üzerinden proje ile ilgili beyin fırtınası ve kaynak paylaşımları gerçekleştirilmiştir.
 
-- Yapılan takım toplantısı ekran görüntüsü. 01 Ağustos 2025 tarihinde sprint 3 değerlendirme toplantısı yapılmıştır.
+- Yapılan takım toplantısı ekran görüntüsü. "01 Ağustos 2025" tarihinde sprint 3 değerlendirme toplantısı yapılmıştır.
 
 <img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint3%20Tak%C4%B1m%20Toplant%C4%B1s%C4%B1%201.jpg">
 
@@ -491,3 +491,27 @@ Response örneği:
 <img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint3%20Tak%C4%B1m%20Toplant%C4%B1s%C4%B1%202.jpg">
 
 <img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint3%20Tak%C4%B1m%20Toplant%C4%B1s%C4%B1%203.jpg">
+
+### **💻Backlog Düzeni** 
+- Backlog'umuz tarihlere göre düzenlenmiştir. Ayrıca yapılacak işler (tags) Sprint 1,2 ve 3 için gruplara bölünerek sıralanmıştır.
+
+- Yapılacak işlerin önem derecesi high, medium ve low ile ifade edilmiştir "Notion" üzerinden. Tamamlanan görevler; "Compluted" devam eden görevler ise; "İn Progress" olarak ifade edilmiştir.
+
+- <b>Sprint 3 Dökümanları:</b> <a>https://www.notion.so/Sprint-3-Proje-Sonu-2241183cdf8480e19e2cc4963a05c94e?source=copy_link<a/>
+
+### **🎑Sprint 3 Board Update** 
+- Sprint 3 board ekran görüntüleri.
+
+<img width="1000" height="500" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint%203%20Proje%20Y%C3%B6netimi%201.jpg">
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint%203%20Proje%20Y%C3%B6netimi%202.jpg">
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint%203%20Proje%20Y%C3%B6netimi%203.jpg">
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint%203%20Proje%20Y%C3%B6netimi%204.jpg">
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint%203%20Proje%20Y%C3%B6netimi%205.jpg">
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint%203%20Proje%20Y%C3%B6netimi%206.jpg">
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint%203%20Proje%20Y%C3%B6netimi%206.jpg">
