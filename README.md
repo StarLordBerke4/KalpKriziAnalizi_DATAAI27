@@ -538,3 +538,14 @@ Response örneği:
 <img width="1000" height="1400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Web_Sitesi_Backend_Frontend_DATAAI27/%C4%B0mg/Web%20Sitesi%202.png">
 
 <img width="1000" height="1400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Web_Sitesi_Backend_Frontend_DATAAI27/%C4%B0mg/Web%20Sitesi%203.png">
+
+### Not: 
+- Sprint 3 içerisinde web sitemizin frontend ve backend teknolojileri ile kodlanmasını "Gamze GEZGİN" arkadaşımız yapmıştır. İlgili dosyalar takım repomuza dahil edilmiştir. Ancak ek olarak, "Gamze GEZGİN" arkadaşımızın kişisel github hesabı üzerinden de web sitesi ile ilgili dosyalara ulaşabilirsiniz.
+  
+- <b>Gamze Github:</b> <a>https://github.com/gamzegezgin/bootcamp-2025-data27</a>
+
+<img width="1000" height="1400" src="">
+
+<img width="1000" height="1400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Gamze1.jpg">
+
+<img width="1000" height="1400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/G%C3%B6rseller/Gamze2.jpg">
