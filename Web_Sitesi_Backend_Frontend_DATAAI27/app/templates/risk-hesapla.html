@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Risk Hesapla - Kalp Analizim</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', path='/css/style.css') }}"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+  </head>
+  <body>
+    <header class="main-header">
+      <nav class="navbar">
+        <a href="/" class="logo">
+          <i class="fa-solid fa-heart-pulse"></i> Data27
+        </a>
+        <ul class="nav-links">
+          <li>
+            <a href="/"
+              ><i class="fa-solid fa-heart-circle-check"></i> Kalp Analizim</a
+            >
+          </li>
+          <li><a href="/risk-hesapla" class="active">Risk Hesapla</a></li>
+          <li><a href="/rapor">Rapor</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <div class="form-container">
+        <h2>Risk Hesapla</h2>
+        <img
+          src="{{ url_for('static', path='/img/form-heart-icon.png') }}"
+          alt="Kalp İkonu"
+          class="form-icon"
+        />
+        <form id="risk-form">
+          <!-- TÜM 'name' ÖZELLİKLERİ JSON ÖRNEĞİNE GÖRE DÜZELTİLDİ -->
+          <div class="form-group">
+            <label for="age">Yaş</label>
+            <input
+              type="number"
+              id="age"
+              name="age"
+              placeholder="Örn: 25"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <label for="sex">Cinsiyet</label>
+            <select id="sex" name="sex" required>
+              <option value="1">Erkek</option>
+              <option value="0">Kadın</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="cp">Göğüs Ağrısı Türü</label>
+            <select id="cp" name="cp" required>
+              <option value="0">Tipik Anjina</option>
+              <option value="1">Atipik Anjina</option>
+              <option value="2">Anjinal Olmayan Ağrı</option>
+              <option value="3">Asemptomatik</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="trtbps">Dinlenme Kan Basıncı (mmHg)</label>
+            <input
+              type="number"
+              id="trtbps"
+              name="trtbps"
+              placeholder="Örn: 140"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <label for="chol">Kolesterol (mg/dl)</label>
+            <input
+              type="number"
+              id="chol"
+              name="chol"
+              placeholder="Örn: 100"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <label for="fbs">Açlık Kan Şekeri > 120 mg/dl</label>
+            <select id="fbs" name="fbs" required>
+              <option value="1">Evet</option>
+              <option value="0">Hayır</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="restecg">Dinlenme EKG Sonuçları</label>
+            <select id="restecg" name="restecg" required>
+              <option value="0">Normal</option>
+              <option value="1">ST-T Dalga Anormalliği</option>
+              <option value="2">Sol Ventrikül Hipertrofisi</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="thalachh">Ulaşılan Maksimum Kalp Hızı</label>
+            <input
+              type="number"
+              id="thalachh"
+              name="thalachh"
+              placeholder="Örn: 150"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <label for="exng">Egzersize Bağlı Anjina (Göğüs Ağrısı)</label>
+            <select id="exng" name="exng" required>
+              <option value="1">Evet</option>
+              <option value="0">Hayır</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="oldpeak">Egzersize Bağlı ST Çökmesi (oldpeak)</label>
+            <input
+              type="number"
+              step="0.1"
+              id="oldpeak"
+              name="oldpeak"
+              placeholder="Örn: 1.4"
+              required
+            />
+          </div>
+          <div class="form-group">
+            <label for="slp">ST Segmentinin Eğimi (slope)</label>
+            <select id="slp" name="slp" required>
+              <option value="0">Yukarı Eğimli</option>
+              <option value="1">Düz</option>
+              <option value="2">Aşağı Eğimli</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="caa">Ana Damar Sayısı (ca)</label>
+            <select id="caa" name="caa" required>
+              <option value="0">0</option>
+              <option value="1">1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="thall">Talyum Stres Testi Sonucu (thal)</label>
+            <select id="thall" name="thall" required>
+              <option value="0">Yok</option>
+              <option value="1">Normal</option>
+              <option value="2">Sabit Defekt</option>
+              <option value="3">Tersinir Defekt</option>
+            </select>
+          </div>
+
+          <button type="submit" class="btn btn-primary form-submit-btn">
+            Kalp Krizi Riskini Hesapla
+          </button>
+        </form>
+      </div>
+    </main>
+    <footer class="main-footer">
+      <!-- Footer içeriğini index.html'den kopyalayabilirsin -->
+    </footer>
+    <script src="{{ url_for('static', path='/js/script.js') }}"></script>
+  </body>
+</html>

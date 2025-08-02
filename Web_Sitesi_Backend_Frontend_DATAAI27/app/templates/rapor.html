@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Risk Analizi Raporu - Kalp Analizim</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', path='/css/style.css') }}"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+    <style>
+      /* Modern Report Styles */
+      .report-main {
+        min-height: 100vh;
+        padding: 2rem 0;
+      }
+
+      .report-container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 0 1rem;
+      }
+
+      .page-title {
+        text-align: center;
+        color: white;
+        font-size: 2.5rem;
+        font-weight: 700;
+        margin-bottom: 3rem;
+        text-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+      }
+
+      .analysis-card {
+        background: white;
+        border-radius: 20px;
+        padding: 3rem;
+        margin-bottom: 2rem;
+        box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+        backdrop-filter: blur(10px);
+        border: 1px solid rgba(255, 255, 255, 0.2);
+      }
+
+      .risk-section {
+        display: grid;
+        grid-template-columns: 300px 1fr;
+        gap: 3rem;
+        align-items: center;
+        margin-bottom: 3rem;
+      }
+
+      .risk-gauge-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .risk-gauge {
+        position: relative;
+        width: 250px;
+        height: 250px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .risk-gauge::before {
+        content: "";
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        border-radius: 50%;
+        background: conic-gradient(
+          #e74c3c 0deg,
+          #e74c3c calc(var(--risk-percentage) * 3.6deg),
+          #f8f9fa calc(var(--risk-percentage) * 3.6deg),
+          #f8f9fa 360deg
+        );
+        padding: 10px;
+        box-sizing: border-box;
+      }
+
+      .risk-gauge::after {
+        content: "";
+        position: absolute;
+        width: 180px;
+        height: 180px;
+        background: white;
+        border-radius: 50%;
+        z-index: 1;
+      }
+
+      .gauge-content {
+        position: relative;
+        z-index: 2;
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 0.5rem;
+      }
+
+      .percentage {
+        font-size: 3rem;
+        font-weight: 700;
+        color: #2c3e50;
+        line-height: 1;
+      }
+
+      .risk-label {
+        font-size: 0.9rem;
+        color: #7f8c8d;
+        margin-bottom: 0.5rem;
+      }
+
+      .status-indicator {
+        background: #e74c3c;
+        color: white;
+        padding: 0.3rem 1rem;
+        border-radius: 20px;
+        font-size: 0.8rem;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.5px;
+      }
+
+      .status-indicator.low-risk {
+        background: #27ae60;
+      }
+
+      .status-indicator.high-risk {
+        background: #e74c3c;
+      }
+
+      .risk-explanation {
+        background: #f8f9fa;
+        border-left: 4px solid #3498db;
+        padding: 2rem;
+        border-radius: 0 15px 15px 0;
+      }
+
+      .risk-explanation h4 {
+        color: #2c3e50;
+        font-size: 1.3rem;
+        font-weight: 600;
+        margin-bottom: 1rem;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+
+      .risk-explanation h4::before {
+        content: "💡";
+        font-size: 1.2rem;
+      }
+
+      .risk-explanation p {
+        color: #5a6c7d;
+        line-height: 1.7;
+        font-size: 1rem;
+      }
+
+      .section-title {
+        color: #2c3e50;
+        font-size: 1.8rem;
+        font-weight: 600;
+        margin-bottom: 2rem;
+        padding-bottom: 0.5rem;
+        border-bottom: 3px solid #3498db;
+        display: inline-block;
+      }
+
+      .risk-factors-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+        gap: 1.5rem;
+        margin-bottom: 3rem;
+      }
+
+      .risk-factor-card {
+        background: #fff5f5;
+        border: 1px solid #fecaca;
+        border-radius: 15px;
+        padding: 1.5rem;
+        display: flex;
+        align-items: flex-start;
+        gap: 1rem;
+        transition: all 0.3s ease;
+      }
+
+      .risk-factor-card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 8px 25px rgba(239, 68, 68, 0.15);
+      }
+
+      .risk-factor-icon {
+        background: #ef4444;
+        color: white;
+        width: 40px;
+        height: 40px;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+      }
+
+      .risk-factor-content h5 {
+        color: #991b1b;
+        font-weight: 600;
+        margin-bottom: 0.5rem;
+        font-size: 1.1rem;
+      }
+
+      .risk-factor-content p {
+        color: #7f1d1d;
+        font-size: 0.9rem;
+        line-height: 1.5;
+      }
+
+      .recommendations-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+        gap: 1.5rem;
+      }
+
+      .recommendation-card {
+        background: #f0fdf4;
+        border: 1px solid #bbf7d0;
+        border-radius: 15px;
+        padding: 1.5rem;
+        display: flex;
+        align-items: flex-start;
+        gap: 1rem;
+        transition: all 0.3s ease;
+      }
+
+      .recommendation-card:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 8px 25px rgba(34, 197, 94, 0.15);
+      }
+
+      .recommendation-icon {
+        background: #22c55e;
+        color: white;
+        width: 40px;
+        height: 40px;
+        border-radius: 10px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-shrink: 0;
+      }
+
+      .recommendation-content h5 {
+        color: #14532d;
+        font-weight: 600;
+        margin-bottom: 0.5rem;
+        font-size: 1.1rem;
+      }
+
+      .recommendation-content p {
+        color: #166534;
+        font-size: 0.9rem;
+        line-height: 1.5;
+      }
+
+      @media (max-width: 768px) {
+        .risk-section {
+          grid-template-columns: 1fr;
+          text-align: center;
+          gap: 2rem;
+        }
+
+        .risk-gauge {
+          width: 200px;
+          height: 200px;
+        }
+
+        .risk-gauge::after {
+          width: 140px;
+          height: 140px;
+        }
+
+        .percentage {
+          font-size: 2.5rem;
+        }
+
+        .page-title {
+          font-size: 2rem;
+        }
+
+        .analysis-card {
+          padding: 2rem 1.5rem;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="main-header">
+      <nav class="navbar">
+        <a href="/" class="logo">
+          <i class="fa-solid fa-heart-pulse"></i> Data27
+        </a>
+        <ul class="nav-links">
+          <li>
+            <a href="/"
+              ><i class="fa-solid fa-heart-circle-check"></i> Kalp Analizim</a
+            >
+          </li>
+          <li><a href="/risk-hesapla">Risk Hesapla</a></li>
+          <li><a href="/rapor" class="active">Rapor</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main class="report-main">
+      <div class="report-container">
+        <h1 class="page-title" style="color: #1a1a3d; text-align: center">
+          Kalp Krizi Riski Analizi
+        </h1>
+
+        <div class="analysis-card">
+          <div class="risk-section">
+            <!-- Risk Göstergesi Alanı -->
+            <div class="risk-gauge-container">
+              <div class="risk-gauge" style="--risk-percentage: 0">
+                <div class="gauge-content">
+                  <!-- Yüzde ve durum ID'leri ile işaretlendi -->
+                  <div class="percentage" id="risk-percentage-element">0%</div>
+                  <div class="status-indicator" id="risk-status-element">
+                    Sonuç Bekleniyor
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Açıklama Alanı -->
+            <div class="risk-explanation">
+              <h4>Riskin Nedenlerini Anlayalım</h4>
+              <!-- Bu div'in içi JavaScript tarafından doldurulacak -->
+              <div id="risk-explanation-content">
+                <p>Lütfen önce risk hesaplama sayfasından bir analiz yapın.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ANAHTAR RİSK FAKTÖRLERİ VE ÖNERİLER BÖLÜMÜ (BURAYI KOPYALA) -->
+
+        <!-- ESKİ RİSK FAKTÖRLERİ VE ÖNERİLER BÖLÜMÜNÜ SİLİP BUNU YAPIŞTIR -->
+
+        <div class="analysis-card">
+          <!-- ANAHTAR RİSK FAKTÖRLERİ -->
+          <div class="info-section">
+            <h3 class="section-title">Anahtar Risk Faktörleri</h3>
+            <ul class="info-list">
+              <li>
+                <div class="item-icon">
+                  <i class="fa-solid fa-exclamation"></i>
+                </div>
+                <div class="item-content">
+                  <h4>Yüksek Kolesterol</h4>
+                  <p>
+                    Yüksek LDL kolesterol seviyeleri, arterlerinizde plak
+                    birikmesine yol açarak kalp krizi riskini artırabilir.
+                  </p>
+                </div>
+              </li>
+              <li>
+                <div class="item-icon">
+                  <i class="fa-solid fa-exclamation"></i>
+                </div>
+                <div class="item-content">
+                  <h4>Hipertansiyon</h4>
+                  <p>
+                    Yüksek tansiyon, kalbinize ve damarlarınıza ekstra yük
+                    bindirerek, bunların hasara daha duyarlı hale gelmesine
+                    neden olur.
+                  </p>
+                </div>
+              </li>
+              <li>
+                <div class="item-icon">
+                  <i class="fa-solid fa-exclamation"></i>
+                </div>
+                <div class="item-content">
+                  <h4>Sigara İçmek</h4>
+                  <p>
+                    Sigara içmek kan damarlarına zarar verir ve kan pıhtılaşması
+                    riskini artırır. Her ikisi de kalp krizine yol açabilir.
+                  </p>
+                </div>
+              </li>
+            </ul>
+          </div>
+
+          <!-- ÖNERİLER -->
+          <div class="info-section">
+            <h3 class="section-title">Öneriler</h3>
+            <p class="section-intro">
+              Risk değerlendirmenize dayanarak, aşağıdaki önlemleri almanız
+              şiddetle tavsiye ederiz:
+            </p>
+            <ul class="info-list recommendations-list">
+              <li>
+                <div class="item-icon">
+                  <i class="fa-solid fa-check"></i>
+                </div>
+                <div class="item-content">
+                  <p>Bir kardiyologa danışın.</p>
+                </div>
+              </li>
+              <li>
+                <div class="item-icon">
+                  <i class="fa-solid fa-check"></i>
+                </div>
+                <div class="item-content">
+                  <p>Kalp sağlığı için uygun bir diyet uygulayın.</p>
+                </div>
+              </li>
+              <li>
+                <div class="item-icon">
+                  <i class="fa-solid fa-check"></i>
+                </div>
+                <div class="item-content">
+                  <p>Düzenli fiziksel aktivite yapın.</p>
+                </div>
+              </li>
+              <li>
+                <div class="item-icon">
+                  <i class="fa-solid fa-check"></i>
+                </div>
+                <div class="item-content">
+                  <p>Sigarayı bırakın.</p>
+                </div>
+              </li>
+              <li>
+                <div class="item-icon">
+                  <i class="fa-solid fa-check"></i>
+                </div>
+                <div class="item-content">
+                  <p>Stres yönetimi konusunda destek alın.</p>
+                </div>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <!-- CHATBOT - AYNEN KORUNDU -->
+    <div class="chatbot-container">
+      <div class="chat-window" id="chat-window">
+        <div class="chat-header">
+          <h4>Sağlık Asistanı</h4>
+          <button id="close-chat-btn">×</button>
+        </div>
+        <div class="chat-body">
+          <div class="message assistant">
+            Merhaba! Kalp sağlığınızla ilgili nasıl yardımcı olabilirim?
+          </div>
+        </div>
+        <div class="chat-footer">
+          <input
+            type="text"
+            id="chat-input"
+            placeholder="Mesajınızı yazın..."
+          />
+          <button id="send-chat-btn">
+            <i class="fa-solid fa-paper-plane"></i>
+          </button>
+        </div>
+      </div>
+      <button class="chatbot-toggle" id="chatbot-toggle-btn">
+        <img
+          src="{{ url_for('static', path='/img/chatbot-avatar.png') }}"
+          alt="Chatbot"
+        />
+      </button>
+    </div>
+
+    <footer class="main-footer">
+      <!-- Footer içeriğini index.html'den kopyalayabilirsin -->
+    </footer>
+    <script src="{{ url_for('static', path='/js/script.js') }}"></script>
+  </body>
+</html>

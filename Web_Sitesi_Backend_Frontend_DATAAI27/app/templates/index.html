@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="tr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kalp Krizi Analizi ve Tahmini</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', path='/css/style.css') }}"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+  </head>
+  <body>
+    <header class="main-header">
+      <nav class="navbar">
+        <a href="/" class="logo">
+          <i class="fa-solid fa-heart-pulse"></i> Data27
+        </a>
+        <ul class="nav-links">
+          <li>
+            <a href="/" class="active"
+              ><i class="fa-solid fa-heart-circle-check"></i> Kalp Analizim</a
+            >
+          </li>
+          <li><a href="/risk-hesapla">Risk Hesapla</a></li>
+          <li><a href="/rapor">Rapor</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section class="hero-section">
+        <div class="hero-content">
+          <div class="hero-image">
+            <img
+              src="{{ url_for('static', path='/img/anatomical-heart.png') }}"
+              alt="Anatomik Kalp Çizimi"
+            />
+          </div>
+          <div class="hero-text">
+            <h1>KALP KRİZİ ANALİZİ VE TAHMİNİ</h1>
+            <a href="/risk-hesapla" class="btn btn-primary"
+              >Kalp krizi riskinizi öğrenin</a
+            >
+          </div>
+        </div>
+      </section>
+      <section class="cards-section">
+        <div class="card">
+          <div class="card-icon">
+            <i class="fa-solid fa-hand-holding-heart"></i>
+          </div>
+          <h3>Ne Yapıyoruz?</h3>
+          <p>
+            Kalp krizi ihtimalinizi belirlemek için yaş, tansiyon, kolesterol
+            gibi faktörlerinizi ölçüp değerlendirmekteyiz.
+          </p>
+        </div>
+        <div class="card">
+          <div class="card-icon"><i class="fa-solid fa-user-doctor"></i></div>
+          <h3>Uzmanlar</h3>
+          <p>Uygulamada risk tespiti sonrası sizi uzmanlara yönlendiriyoruz.</p>
+        </div>
+        <div class="card">
+          <div class="card-icon"><i class="fa-solid fa-stethoscope"></i></div>
+          <h3>Nasıl Yönlendiriyoruz?</h3>
+          <p>
+            Ölçüm sonucuna göre kişiye özel tavsiyeler ve uzman yönlendirmesi
+            yapılır.
+          </p>
+        </div>
+      </section>
+      <section class="info-section">
+        <div class="info-left">
+          <h2>Sevdikleriniz için kalp krizi analizini yapın.</h2>
+          <p>
+            Kalp krizi, kalbi besleyen damarların tıkanmasıyla kalp kasının
+            zarar görmesidir. Göğüste ağrı, nefes darlığı, sol kola ve çeneye
+            yayılan ağrı, terleme, mide bulantısı ve halsizlik en yaygın
+            belirtilerdir. Bu durumlarda hemen 112 aranmalıdır.
+          </p>
+          <div class="info-boxes">
+            <div class="info-box">
+              <i class="fa-solid fa-heart-pulse"></i>
+              <div>
+                <h4>Kalp Krizi</h4>
+                <p>Kalp krizi analizi, kalp krizi riskini ölçer.</p>
+              </div>
+            </div>
+            <div class="info-box">
+              <i class="fa-solid fa-hand-holding-medical"></i>
+              <div>
+                <h4>Erken Teşhis</h4>
+                <p>Kalp krizi analizi, hayat kurtaran erken uyarıdır.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="info-right">
+          <div class="symptoms-card">
+            <h4>KALP KRİZİ BELİRTİLERİ: KADINLAR VE ERKEKLER</h4>
+            <p>
+              Hem kadınlarda hem de erkeklerde kalp krizinin en sık rastlanan
+              belirtisi baskı şeklinde sıkıştırıcı göğüs ağrısıdır. Ancak diğer
+              belirtiler kadınlarda ve erkeklerde farklılık gösterebilir.
+            </p>
+        <div class="symptoms-columns">
+          <!-- Erkek semptomları -->
+          <div class="symptoms-col">
+            <h5>ERKEKLER</h5>
+            <ul>
+              <li><i class="fa-solid fa-lungs"></i> Bulantı ve Kusma</li>
+              <li><i class="fa-solid fa-face-grimace"></i> Çene, boyun veya sırt ağrısı</li>
+              <li><i class="fa-solid fa-person-burst"></i> Göğüste sıkışma, ağrı veya baskı</li>
+              <li><i class="fa-solid fa-wind"></i> Nefes darlığı</li>
+            </ul>
+          </div>
+
+          <!-- Görsel -->
+          <div class="symptoms-image-center">
+            <img
+              src="{{ url_for('static', path='/img/man-women.png') }}"
+              alt="Kadın ve Erkek Belirtileri"
+              class="symptoms-image"
+            />
+          </div>
+
+          <!-- Kadın semptomları -->
+          <div class="symptoms-col">
+            <h5>KADINLAR</h5>
+            <ul>
+              <li><i class="fa-solid fa-lungs"></i> Bulantı ve kusma</li>
+              <li><i class="fa-solid fa-face-grimace"></i> Çene, boyun, her iki kol veya sırt ağrısı</li>
+              <li><i class="fa-solid fa-heart-crack"></i> Göğüs altı veya karın üst kısmında ağrı</li>
+              <li><i class="fa-solid fa-wind"></i> Nefes darlığı</li>
+              <li><i class="fa-solid fa-dizzy"></i> Bayılma</li>
+              <li><i class="fa-solid fa-bed"></i> Hazımsızlık ve şişkinlik</li>
+              <li><i class="fa-solid fa-battery-empty"></i> Aşırı yorgunluk</li>
+            </ul>
+          </div>
+        </div>
+        </div>
+      </section>
+    </main>
+    <footer class="main-footer">
+      <div class="footer-container">
+        <div class="footer-col">
+          <a href="/" class="logo footer-logo"
+            ><i class="fa-solid fa-heart-pulse"></i> Data27</a
+          >
+          <p>
+            Kalp sağlığınızı önemsiyoruz. Uygulamamız, kalp krizi riskinizi
+            değerlendirip sizi uzmanlara yönlendirir. Sağlıklı yaşam için
+            düzenli kontrol şart!
+          </p>
+          <p>
+            Her türlü soru ve destek için bizimle iletişime geçin:<br /><strong
+              >info@kalpanalizim.com</strong
+            >
+          </p>
+          <div class="social-icons">
+            <a href="#"><i class="fab fa-facebook-f"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+            <a href="#"><i class="fab fa-twitter"></i></a>
+          </div>
+        </div>
+        <div class="footer-col">
+          <h4>Linkler</h4>
+          <ul>
+            <li><a href="/">Kalp Analizi</a></li>
+            <li><a href="/risk-hesapla">Risk Hesapla</a></li>
+            <li><a href="/rapor">Rapor</a></li>
+          </ul>
+        </div>
+        <div class="footer-col">
+          <h4>Adres</h4>
+          <p><a href="#" target="_blank">www.kalpanalizim.com</a></p>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>
+          Gizlilik Politikası | Şartlar | Yapay Zeka ve Teknoloji Akademisi 2025
+        </p>
+      </div>
+    </footer>
+    <script src="{{ url_for('static', path='/js/script.js') }}"></script>
+  </body>
+</html>
