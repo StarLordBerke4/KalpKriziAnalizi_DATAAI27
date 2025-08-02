@@ -164,7 +164,7 @@ DATAAI27
 
 ### 🧙‍♂️ Sprint 1 Değerlendirme Notu (Scrum Master) - Berke Mert ÖZTÜRK
 
-### **📋Sprint Notları**
+### **📋Sprint 1 Notları**
 - Sprint 1 sürecinde, proje ekibi olarak temel yapı taşlarımızı belirleyerek işe başladık. Tema olarak “Sağlık” alanı seçildi ve bu kapsamda “Kalp Krizi Analizi ve Tahmini” konusuna odaklanıldı. Kaggle üzerinden temin edilen veri setiyle çalışılarak Python programlama dili ve ilgili kütüphaneler (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn vb.) aracılığıyla kapsamlı bir veri analizi gerçekleştirildi. Bu analiz sürecinde, veri setinin yapısı incelenip eksik veriler temizlendi, istatistiksel görselleştirmeler ve değişkenler arası ilişkiler ortaya kondu ve tahmin modelleri oluşturulmaya başlandı. Teknik ilerlemelerin takibi ve iş birliğinin sağlanması amacıyla GitHub üzerinde bir proje reposu açıldı.
 
 - Bu repoya ([https://github.com/StarLordBerke4/KalpKriziAnalizi\_DATAAI27](https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27)) Kaggle üzerinde hazırlanan analiz not defteri entegre edildi. Ayrıca, projenin amacı, kullanılan yöntemler ve gelecek sprintlerde izlenecek yol haritasını açıklayan kapsamlı bir README dosyası oluşturularak paylaşıldı.
@@ -258,7 +258,7 @@ https://github.com/user-attachments/assets/33cbb42f-4b0a-4534-9cea-2861f50d08ad
 
 ### 🧙‍♂️ Sprint 2 Değerlendirme Notu (Scrum Master) - Berke Mert ÖZTÜRK
 
-### **📋Sprint Notları**
+### **📋Sprint 2 Notları**
 - Sprint 2 kapsamında, projede önemli aşamalar kaydedilmiştir. Veri analiz süreci tamamlandıktan sonra elde edilen bulgular doğrultusunda canlıya alınması planlanan web uygulamasının kullanıcı arayüzü tasarımları oluşturulmuştur. Tasarım süreci, ekip üyelerinden Seda CANPOLAT ve Gamze YAŞ tarafından Figma programı aracılığıyla gerçekleştirilmiş, kullanıcı dostu ve estetik bir UI ortaya konmuştur. Arayüzde kullanıcıdan alınacak sağlık verilerinin doğru ve anlaşılır biçimde toplanması ve tahmin sonuçlarının görsel olarak sunulması amaçlanmıştır. Bu aşamada ayrıca Yücel Baran TUNCER tarafından model tarafında iyileştirmeler yapılmış; daha doğru tahminler verebilen ve veri setine daha iyi uyum sağlayan bir yapay zeka modeli geliştirilmiştir. Yapılan bu geliştirmeler, GitHub reposunda <a>[StarLordBerke4/KalpKriziAnalizi_DATAAI27](https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27)</a> adresinde dokümante edilmiştir. Tüm bu çalışmalar, projenin fonksiyonel ve görsel açıdan bütünsel bir yapıya kavuşmasını sağlamış; bir sonraki sprintte web sitesinin entegrasyon, kodlanma ve test sürecine geçiş için zemin oluşturmuştur.
 
 - <b> 🟦Sprint 2 Aracı:</b> Takım olarak proje yönetiminde "Notion" platformunun kullanılması kararlaştırılmıştır.
@@ -468,3 +468,24 @@ Response örneği:
 ## **📂Sprint 3: Proje Sonu**
 
 ### 🧙‍♂️ Sprint 3 Değerlendirme Notu (Scrum Master) - Berke Mert ÖZTÜRK
+
+### **📋Sprint 3 Notları**
+- Sprint 3 kapsamında projenin işlevsel hale getirilmesi adına önemli teknik adımlar başarıyla tamamlanmıştır. Önceki sprintlerde hazırlanan kullanıcı arayüzü tasarımlarının ardından, bu arayüzlerin HTML, CSS, JavaScript ve SQL teknolojileriyle kodlanarak dinamik bir yapıya dönüştürülmesi sağlanmıştır. Kullanıcıların sağlık verilerini kolayca girebileceği, tahmin sonuçlarını görsel olarak alabileceği mobil uyumlu ve kullanıcı dostu bir web sitesi oluşturulmuştur. Front-End kodlama süreci Gamze GEZGİN tarafından yürütülürken, Back-End geliştirme ve yapay zeka model entegrasyonu Beyza GÜVERCİN tarafından tamamlanmıştır. Bu süreçte modelin doğru ve hızlı çalışabilmesi adına veritabanı bağlantıları, API endpoint'leri ve form entegrasyonları gerçekleştirilmiştir.
+- Ayrıca, test süreci boyunca sistemin hatasız çalışması adına çeşitli senaryolar test edilmiş; kullanıcı deneyimini aksatabilecek noktalar iyileştirilmiştir. Kodlar ve proje belgeleri güncel şekilde GitHub reposuna yüklenmiş ve versiyon kontrolü sağlanmıştır. Sprint sonunda proje, temel işlevleriyle birlikte yayına hazır hale getirilmiş ve kullanılabilir bir web uygulaması formuna kavuşmuştur. Bu aşama, projenin fonksiyonel olarak tamamlanması ve nihai sunum için hazır duruma gelmesini sağlamıştır.
+
+- <b> 🟦Sprint 3 Aracı:</b> Takım olarak proje yönetiminde "Notion" platformunun kullanılması kararlaştırılmıştır.
+
+- <b> 🟦Sprint 3 İçinde Tamamlanması Tahmin Edilen Puan:</b> 100 Puan
+
+- <b> 🟦Puan Tamamlama Mantığı:</b> Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. Proje 3 sprint'e bölündüğünde üçüncü sprint'in 100 olması gerektiğine karar verildi.
+
+### **📈Daily Scrum**
+- Daily Scrum toplantıları haftada bir "Google Meet" platformu üzerinden gerçekleştirilmiştir. Proje süreci ve proje durumu ile ilgili kapsamlı planlar ve yol haritası bu toplantılar ile belli olmuştur. Ayrıca; Slack ve Whatsapp üzerinden kurmuş olduğumuz; Bootcamp 27 isimli gruplar üzerinden proje ile ilgili beyin fırtınası ve kaynak paylaşımları gerçekleştirilmiştir.
+
+- Yapılan takım toplantısı ekran görüntüsü. 01 Ağustos 2025 tarihinde sprint 3 değerlendirme toplantısı yapılmıştır.
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint2%20Tak%C4%B1m%20Toplant%C4%B1s%C4%B1.jpg">
+
+- Yapılan takım toplantısına tüm ekip, tam kadro halinde katılmıştır.
+
+<img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/Proje%20Y%C3%B6netimi/Sprint2%20Tak%C4%B1m%20Toplant%C4%B1s%C4%B1%202.jpg">
