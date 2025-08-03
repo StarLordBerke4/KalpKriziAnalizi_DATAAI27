@@ -237,6 +237,9 @@ DATAAI27
 
 https://github.com/user-attachments/assets/33cbb42f-4b0a-4534-9cea-2861f50d08ad
 
+### Not:
+- Sprint 1 içerisinde yer alan kaggle platformu üzerindeki, veri analizi ve proje yönetimi "Berke Mert ÖZTÜRK" arkadaşımız tarafından yapılmıştır. Ayrıca projenin ilerki sprintlerindeki proje yönetimi sürecide kendisi tarafından gerçekleştirilecektir.
+
 ### **📌Sprint Review**
 - Bu sprintin sonunda, projenin teması ve konusu netleşmiş, ilk veri analizi başarıyla tamamlanmış ve teknik dokümantasyonla birlikte proje altyapısı sağlam bir şekilde kurulmuş oldu.
 
@@ -332,6 +335,9 @@ https://github.com/user-attachments/assets/33cbb42f-4b0a-4534-9cea-2861f50d08ad
 
 <img width="1000" height="400" src="https://github.com/StarLordBerke4/KalpKriziAnalizi_DATAAI27/blob/main/UI%20Tasar%C4%B1m%20Figma/Web%20UI%20Tasar%C4%B1m-min.jpg">
 
+### Not:
+- Sprint 2 içerisinde yer alan web sitesi UI tasarımını ekip arkadaşlarımızdan "Seda CANPOLAT" ve "Gamze Yaş" üstlenmiştir.
+ 
 ## **🧙‍♂️ Sprint 2 Kısım 2: Model Üzerine Yapılan Gelişmeler ve Backend**
 
 ## 💻 Kalp Krizi Prediction API (FastAPI + Railway)
